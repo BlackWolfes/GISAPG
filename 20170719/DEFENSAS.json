@@ -1,0 +1,6451 @@
+{
+	"features": [
+		{
+			"geometry": {
+				"coordinates": [
+					281973.9188837414,
+					4826656.56872889
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF008",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283272.04385315115,
+					4828800.17882322
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF401",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "17",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281888.5696116267,
+					4827441.955277881
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF192",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "1 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281996.39071520144,
+					4826668.010542409
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF009",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283241.36818320036,
+					4828790.734704233
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF402",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "18",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283129.64110947354,
+					4826279.198783692
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF212",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Moliner"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282008.17273430905,
+					4826673.911278523
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF010",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283210.47777906334,
+					4828781.122709637
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF403",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "19",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283393.0144773749,
+					4827380.192354075
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF145",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R PALA",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282042.10146776907,
+					4826691.149743257
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF011",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283179.5343485532,
+					4828771.71935049
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF404",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "20",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282191.55451243697,
+					4827323.952127246
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF066",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "FF",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282047.1922514182,
+					4826693.7715340555
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF012",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283148.5728404734,
+					4828762.131084196
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF405",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "21",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283446.8529938282,
+					4827140.714792942
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF140",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": null,
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Contradique exterior"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282064.61250017333,
+					4826702.75401513
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF013",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283117.7128274198,
+					4828752.654080983
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF406",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "22",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283439.56359801843,
+					4827161.42275696
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF141",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "AA",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Contradique exterior"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282084.32570264494,
+					4826712.7836941285
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF014",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283086.82662181015,
+					4828743.209552546
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF407",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "23",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283436.1972609062,
+					4827171.702000608
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF422",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Contradique Principe Asturias"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282104.727459378,
+					4826723.206713694
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF015",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283055.99344213406,
+					4828733.648595316
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF408",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "24",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283433.0544021113,
+					4827182.437488499
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF142",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "AA",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Contradique exterior"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282122.2659650303,
+					4826732.034983262
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF016",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "9",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283025.28325225844,
+					4828724.214631369
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF409",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "25",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283427.84710905206,
+					4827197.5152589595
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF423",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Contradique Principe Asturias"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282142.24637810374,
+					4826742.205356829
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF017",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "10",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282994.64427273563,
+					4828714.830686613
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF410",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "26",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283423.38440736424,
+					4827211.697632748
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF143",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "AA",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Contradique exterior"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281939.80836868455,
+					4827436.155885402
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF078",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "15",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282167.06187765993,
+					4826754.592987871
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF018",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "11",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282679.0116486067,
+					4825947.080858019
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF313",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "10",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "G",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282963.48843948386,
+					4828705.162135863
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF411",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "27",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283418.3818567981,
+					4827226.775684883
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF424",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Contradique Principe Asturias"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281918.4380754849,
+					4827445.521954647
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF278",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "16",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282183.0141022975,
+					4826762.8224109085
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF019",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "12",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282691.98195236444,
+					4825963.59103736
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF314",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "11",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282932.9872008034,
+					4828695.9008551305
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF412",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "28",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283413.5240018941,
+					4827241.779569097
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF144",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "AA",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Contradique exterior"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281883.5432939409,
+					4827410.797050544
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF193",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "1 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282202.17546963843,
+					4826772.520126801
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF230",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "13",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282707.22230974556,
+					4825983.071248502
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF315",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "12",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282901.9038410502,
+					4828686.326788937
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF413",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "29",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283381.60309119505,
+					4827376.664563126
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF146",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "K",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281880.51636613393,
+					4827394.141061961
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF194",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "1 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282222.0567868932,
+					4826782.599352987
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF231",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "14",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282722.18621281744,
+					4826002.8042804105
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF316",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "13",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282871.1591315325,
+					4828676.843704324
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF414",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "30",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283367.2732818532,
+					4827372.039312551
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF147",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "K",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281877.07619983336,
+					4827371.37087378
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF195",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "1 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282236.77296068537,
+					4826777.108264388
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF329",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Testero"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282734.7541589475,
+					4826018.44088241
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF317",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "14",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282840.4630699967,
+					4828667.388500784
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF415",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "31",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283348.9612490035,
+					4827366.071699135
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF148",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "K",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281872.80453748425,
+					4827343.019421899
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF196",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "1 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282246.0462659506,
+					4826758.539682913
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF020",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Testero"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282749.72330875695,
+					4826037.801839278
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF318",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "15",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282809.6135196891,
+					4828657.907115994
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF416",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "32",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283320.2402484525,
+					4827356.727378699
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF150",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "AA",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281868.2532599488,
+					4827317.257164891
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF197",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "1 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282258.2621096971,
+					4826698.999275151
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF021",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282761.5535880292,
+					4826053.262005111
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF319",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "16",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282778.7014064781,
+					4828648.441447114
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF417",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "33",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283311.87312584365,
+					4827354.09561079
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF149",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "K",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281864.6670512266,
+					4827293.207144244
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF198",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "1 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282237.8997026441,
+					4826688.620801953
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF022",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "F",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Espig\u00f3n II Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282777.2567380889,
+					4826072.91313613
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF320",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "17",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282747.98338751384,
+					4828638.973664178
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF418",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "34",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283261.24203199375,
+					4827337.605520383
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF152",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "AA",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281860.6642600076,
+					4827268.431217267
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF199",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "1 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282216.3768184895,
+					4826677.616362163
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF023",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "C",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Espig\u00f3n II Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282792.4970961256,
+					4826092.433346477
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF321",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "18",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282716.81997357524,
+					4828629.420320271
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF419",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "35",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283202.63834483636,
+					4827318.756348242
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF154",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "10",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "AA",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281892.9324685418,
+					4827228.1685804995
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF200",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "2 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282188.60724659957,
+					4826663.512423925
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF024",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "C",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Espig\u00f3n II Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282804.8446011639,
+					4826107.902596741
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF322",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "19",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282686.0890321509,
+					4828619.899673088
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF420",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "36",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283145.397290789,
+					4827300.365954562
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF156",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "12",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "LA",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281908.66556614387,
+					4827225.654840189
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF201",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "2 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282183.81715076725,
+					4826660.902384044
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF025",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "C",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Espig\u00f3n II Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282816.5089067659,
+					4826123.385990577
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF323",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "20",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282655.1165140356,
+					4828610.343294756
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF421",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "37",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283084.96290759725,
+					4827281.000800009
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF158",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "14",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "LL",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281920.3267638918,
+					4827223.825294946
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF202",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "N",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "2 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282160.88669691543,
+					4826649.442200826
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF026",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282831.68753685,
+					4826142.814815582
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF324",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "21",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283364.3395862932,
+					4828828.566221433
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF398",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "14",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283017.4264494933,
+					4827258.97873307
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF160",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "16",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "CC",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281932.72505469306,
+					4827222.054675347
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF203",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "2 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282133.53615407774,
+					4826635.4319794765
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF027",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n II Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282847.51560351433,
+					4826162.403183094
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF325",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "22",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283642.3439221232,
+					4828914.037153422
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF389",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282948.8635380919,
+					4827236.684705575
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF162",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "18",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "LL",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281949.8064386105,
+					4827219.298435974
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF204",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "2 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282099.295911858,
+					4826613.113555613
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF224",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Espig\u00f3n II Escuadra Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282862.5997387936,
+					4826181.8335296
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF326",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "23",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283765.49578779854,
+					4828951.896283274
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF385",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282892.1224536651,
+					4827217.954340815
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF164",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "20",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "LL",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281958.381747999,
+					4827217.946483098
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF205",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "2 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282083.46861547517,
+					4826598.176821598
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF225",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Espig\u00f3n II Escuadra Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282877.8663173604,
+					4826201.273599998
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF327",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "24",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283141.16651960026,
+					4826259.70000606
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF211",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Moliner"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282844.5615462614,
+					4827202.534036543
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF166",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "22",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "LL",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281955.1658155445,
+					4827184.41044643
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF096",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "3 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282064.3931983219,
+					4826581.302153824
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF226",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Espig\u00f3n II Escuadra Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282896.01674626174,
+					4826224.903851763
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF328",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "25",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283144.70519000787,
+					4826253.713256209
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF437",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": "pte datos",
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MOLINER"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282794.32030572795,
+					4827186.678451592
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF168",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "24",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "LL",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281953.4875883055,
+					4827175.139259684
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF097",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "3 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282046.45925662393,
+					4826565.117413883
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF227",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Espig\u00f3n II Escuadra Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282932.4348643094,
+					4826208.487496068
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF130",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "C",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "8 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283147.711779756,
+					4826248.626684515
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF434",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": "pte datos",
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MOLINER"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282647.5477935458,
+					4827139.462776621
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF256",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "30",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "LL",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281951.59291245166,
+					4827165.478510698
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF098",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "3 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282030.8940451603,
+					4826551.050873659
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF228",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Espig\u00f3n II Escuadra Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282944.2631176592,
+					4826193.730993528
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF131",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "B",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "8 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283137.738510843,
+					4826265.499537683
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF435",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282694.35868508916,
+					4827154.493077105
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF172",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "28",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "LL",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281986.839852914,
+					4827079.969248776
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF102",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282007.6193336408,
+					4826529.727090911
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF229",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Espig\u00f3n II Escuadra Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282956.76095472544,
+					4826177.938718794
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF132",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "8 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283134.76720450097,
+					4826270.526416639
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF436",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": "pte datos",
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MOLINER"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282741.98476044944,
+					4827169.835019456
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF170",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "26",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "LL",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Marcelino Leon"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282007.0113102757,
+					4827090.207010517
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF103",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282083.7672305452,
+					4826432.646912222
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF035",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Pantalan GL Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282975.5789386851,
+					4826154.134643427
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF133",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "8 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282843.3690445489,
+					4827856.27796177
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF425",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": null,
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "TALUDES INTERIORES"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282568.542789636,
+					4826672.080305867
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF354",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282026.2506368581,
+					4827100.089562536
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF104",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282136.1985201654,
+					4826458.858247293
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF033",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Pantalan GL Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282990.7502594594,
+					4826134.975319657
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF134",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "8 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282837.8708831872,
+					4827874.153075983
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF426",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": null,
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Taludes Interiores"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282552.7488086769,
+					4826704.694117745
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF355",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282038.68249080016,
+					4827106.670492085
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF105",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282092.32672052743,
+					4826415.50975391
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF039",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Pantalan GL Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283003.2168772052,
+					4826119.226904591
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF135",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "B",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "8 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282832.51120013924,
+					4827891.5786920935
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF427",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": null,
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Taludes Interiores"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282548.42114168033,
+					4826713.715078314
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF356",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282056.11956324766,
+					4827115.784667765
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF106",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282118.7572421572,
+					4826428.609966571
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF038",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Pantalan GL Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283018.14656443644,
+					4826100.424651711
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF137",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "9",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "8 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282828.38212093286,
+					4827905.002063418
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF428",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": null,
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Taludes Interiores"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282541.64550763037,
+					4826727.679628309
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF357",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282068.7098135213,
+					4827122.154767316
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF107",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282144.697754975,
+					4826441.630176292
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF037",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Pantalan GL Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283013.77882863465,
+					4826105.890716472
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF136",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "8 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282823.0169792174,
+					4827922.444715206
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF429",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": null,
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Taludes Interiores"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282534.73120360856,
+					4826741.879141604
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF358",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282079.0946727129,
+					4827127.568172732
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF108",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282171.7282899273,
+					4826455.300395356
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF036",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Pantalan GL Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283058.5369061458,
+					4826106.921430158
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF344",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "9 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282818.893358268,
+					4827935.851050873
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF430",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": null,
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Taludes Interiores"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282524.0311212707,
+					4826763.899260779
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF359",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282098.83047576406,
+					4827137.829193722
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF109",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282224.61755063996,
+					4826169.354173526
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF262",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Muelle Rendiello 1 Tramo"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283065.84046038083,
+					4826116.717190579
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF186",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "9 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282814.90275667293,
+					4827948.824924098
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF431",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"SUBTIPO": null,
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Taludes Interiores"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282517.69107265415,
+					4826776.989331784
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF360",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282113.6307043142,
+					4827144.866531743
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF276",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "9",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282231.4941465062,
+					4826155.67948004
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF261",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Muelle Rendiello 1 Tramo"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283074.3106591367,
+					4826127.417305241
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF187",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "C",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "9 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282807.84806653805,
+					4827971.614375343
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF432",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"SUBTIPO": null,
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Taludes Interiores"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282510.8810220653,
+					4826791.399410723
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF361",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282128.60517107346,
+					4827152.09372009
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF277",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "10",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282238.30585853144,
+					4826142.092206694
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF260",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Muelle Rendiello 1 Tramo"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283087.12522393337,
+					4826143.85965457
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF188",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "B",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "9 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283408.9278121498,
+					4827254.191934708
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF433",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"SUBTIPO": null,
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Contradique Principe Asturias"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282503.46096373204,
+					4826806.42949181
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF362",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "9",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281900.50597591506,
+					4826900.265790862
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF129",
+				"ESTADO": "Grillete mal",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "14",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282254.788546959,
+					4826109.382016423
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF258",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Muelle Rendiello 1 Tramo"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283131.4281970784,
+					4826200.379884161
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF190",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "B",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "9 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282493.3152827458,
+					4826827.049260584
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF363",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "10",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "F",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281926.0251294528,
+					4826912.832309308
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF128",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "13",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "CD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Espig\u00f3n I Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282245.96817231283,
+					4826126.796503984
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF259",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Muelle Rendiello 1 Tramo"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283114.3299848109,
+					4826178.594504932
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF189",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "B",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "9 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282488.108947867,
+					4826837.919878642
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF364",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "10",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "F",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281946.53437115875,
+					4826923.408722286
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF127",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "12",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282067.26364512276,
+					4826271.049643151
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF279",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283119.23230100615,
+					4826296.998889502
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF213",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Moliner"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282478.94681507914,
+					4826856.917364447
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF365",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "12",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281966.94645671657,
+					4826933.79102186
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF126",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "11",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282078.668137532,
+					4826248.242740996
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF280",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283103.38163293706,
+					4826323.694277287
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF215",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Moliner"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282476.3267928401,
+					4826861.887390671
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF366",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "13",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281987.7167836237,
+					4826944.249587217
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF125",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "10",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282084.573445027,
+					4826236.235863273
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF281",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283111.1840234531,
+					4826310.75344693
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF214",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Moliner"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282467.60109332105,
+					4826879.4368202165
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF367",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "14",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "N",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282008.254691444,
+					4826954.672251222
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF124",
+				"ESTADO": "Falta la inferior",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "9",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282089.3439089162,
+					4826226.802837254
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF282",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283096.48673214973,
+					4826335.692637852
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF216",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Moliner"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282458.45744106494,
+					4826898.9549391335
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF368",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "15",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282028.4585137134,
+					4826964.699310289
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF123",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282096.26928771625,
+					4826212.930482386
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF283",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283081.62733054993,
+					4826361.135519132
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF217",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Moliner"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282456.39742697444,
+					4826903.584965206
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF369",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "16",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "N",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282068.9587338394,
+					4826984.974004619
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF121",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "CD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Espig\u00f3n I Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282104.60882787727,
+					4826196.17753962
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF284",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283070.42728469305,
+					4826380.367702955
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF218",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Moliner"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282446.5580804142,
+					4826923.463106803
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF370",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "17",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282090.16503352276,
+					4826995.865882235
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF120",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282113.0871327574,
+					4826179.44173398
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF285",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283059.4552951026,
+					4826398.987289958
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF219",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "9",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Moliner"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282438.3927558065,
+					4826940.324466973
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF371",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "18",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "N",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282110.6694356791,
+					4827006.143249739
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF119",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "CD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Espig\u00f3n I Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282120.19334197394,
+					4826165.660285925
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF286",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283049.9024931242,
+					4826415.315597995
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF220",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "10",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Moliner"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282426.52469693805,
+					4826965.09897841
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF372",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "19",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282129.640318158,
+					4827015.625324155
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF118",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "CD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Espig\u00f3n I Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282124.6407474952,
+					4826156.5484724995
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF287",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "9",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283042.29202467913,
+					4826428.217697215
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF221",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "11",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Moliner"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282416.1771172913,
+					4826986.785421643
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF373",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "20",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "N",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282151.1676839081,
+					4827026.69783682
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF117",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282131.6248960713,
+					4826142.705662604
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF288",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "10",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283016.7292273265,
+					4826472.093623211
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF223",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "13",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "AA",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Moliner"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282408.3743487647,
+					4827003.260213856
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF374",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "21",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282162.0946670163,
+					4827032.181853229
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF116",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DD",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282137.0106884018,
+					4826132.130810355
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF289",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "11",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283029.6461427272,
+					4826449.9785067765
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF222",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "12",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "H",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "Muelle Moliner"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282397.8769769385,
+					4827024.82563146
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF375",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "22",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "N",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282049.15142458637,
+					4826975.169475002
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF122",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "DC",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Espig\u00f3n I Sur"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282143.9360670141,
+					4826118.258455935
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF290",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "12",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283734.5031945607,
+					4828942.344727577
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF386",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282386.4878174653,
+					4827048.049412249
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF376",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "23",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282163.13876523403,
+					4827093.828268632
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF113",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Testero"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282152.521488804,
+					4826101.209746138
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF291",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "13",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283703.9936321155,
+					4828932.970394511
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF387",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282376.436809288,
+					4827068.765873175
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF377",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "24",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "N",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282171.9269246551,
+					4827076.81388699
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF114",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Espig\u00f3n I Testero"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282166.1067097383,
+					4826074.431904204
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF292",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "14",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283673.1571348812,
+					4828923.489783506
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF388",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282362.9424209663,
+					4827095.849963125
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF378",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "25",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281873.7572674689,
+					4826831.64979355
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF001",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "5 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282172.2444997543,
+					4826062.380816227
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF293",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "15",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283611.6191333285,
+					4828904.592222195
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF390",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282353.4566254917,
+					4827115.0561269205
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF379",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "26",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "N",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281878.78854533704,
+					4826821.380326943
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF002",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "5 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282182.571452603,
+					4826041.73038339
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF294",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "16",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283580.4869908512,
+					4828895.021162004
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF391",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282343.5615752674,
+					4827135.050766898
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF380",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "27",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281887.2910760937,
+					4826804.862691955
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF003",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "5 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282187.2599673581,
+					4826032.215198835
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF295",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "17",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283549.6663899534,
+					4828885.534138086
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF392",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282335.0264818063,
+					4827153.016337219
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF381",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "28",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "N",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281896.7883723859,
+					4826786.32649557
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF004",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "5 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282194.3584695905,
+					4826018.119175724
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF296",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "18",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283518.8256719029,
+					4828875.952946654
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF393",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "9",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282323.4809101907,
+					4827177.35823857
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF382",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "29",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281906.7103730116,
+					4826766.12732576
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF005",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "5 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282200.2115622156,
+					4826006.760153006
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF297",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "19",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283487.6871489944,
+					4828866.403527477
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF394",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "10",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282313.50807318813,
+					4827197.965765981
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF383",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "30",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "N",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281917.2447070147,
+					4826744.548992058
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF006",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "5 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282212.5187483058,
+					4825982.48421622
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF299",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "21",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283456.83223981963,
+					4828856.93874345
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF395",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "11",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282303.9705903283,
+					4827217.947986219
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF384",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "31",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "A",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Olano"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281922.39703212294,
+					4826734.390013977
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF007",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "5 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282216.9887165165,
+					4825973.542830227
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF300",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "22",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283426.09211941535,
+					4828847.486840231
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF396",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "12",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282242.9153089023,
+					4827301.7521648165
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF063",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281934.82052300853,
+					4826709.341801522
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF008",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "5 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282221.4755662685,
+					4825964.657176863
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF301",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "23",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283395.0026740807,
+					4828837.937500487
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF397",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "13",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282233.485162662,
+					4827305.822157816
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF064",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "C",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281938.5503936281,
+					4826701.846556039
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF009",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "9",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "5 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282225.9491123427,
+					4825955.737301521
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF302",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "24",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283333.56665382715,
+					4828819.02657497
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF399",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "15",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282212.15483152657,
+					4827314.96214158
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF065",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "CC",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281950.3004890378,
+					4826678.33642602
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF010",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "10",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "5 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282230.3973396349,
+					4825946.739669734
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF303",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "25",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283302.8758948255,
+					4828809.572242312
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF400",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "16",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "P",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "MUELLE NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282170.2241818988,
+					4827333.242112384
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF067",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "FF",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282205.9354618807,
+					4825995.379836541
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF298",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "20",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R-R-R",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "6\u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282149.9138698551,
+					4827342.672102775
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF068",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "FF",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282532.53638996946,
+					4825758.755594514
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF304",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282128.5835378474,
+					4827351.672085966
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF069",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "FF",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282541.9370835279,
+					4825770.88447027
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF305",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282107.8332179764,
+					4827361.1020748485
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF070",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "FF",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282567.0722489475,
+					4825804.165621055
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF306",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282086.79289226054,
+					4827370.382061561
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF071",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "9",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "FF",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282576.4360214483,
+					4825816.17467485
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF307",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282066.0425702685,
+					4827379.382047418
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF072",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "10",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "FF",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282588.33941668394,
+					4825831.3493554965
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF308",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282044.8622420347,
+					4827388.672033894
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF073",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "11",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "FF",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282603.41185863613,
+					4825850.656936572
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF309",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "D",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282023.091906054,
+					4827398.532022492
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF075",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "12",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "FF",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282630.0328388027,
+					4825884.5942451535
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF310",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "G",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282003.0715960136,
+					4827407.382010469
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF076",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "13",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "FF",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Carrete",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282643.6531835488,
+					4825902.144490888
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF311",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "G",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281961.1426033066,
+					4827426.493714837
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF077",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "14",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "R.Pala",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Rueda",
+				"UBICACION": "Muelle Norte"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282663.8744493103,
+					4825927.914261651
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CODIGO": "DEF312",
+				"ESTADO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NUMERO": "9",
+				"OBSERVACIONES": null,
+				"SUBTIPO": "G",
+				"TABLA_OLD": "DEFENSAS",
+				"TIPO": "Escudo",
+				"UBICACION": "7 \u00aa Alineacion"
+			},
+			"type": "Feature"
+		}
+	],
+	"type": "FeatureCollection"
+}

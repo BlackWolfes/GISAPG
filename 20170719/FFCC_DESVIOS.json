@@ -1,0 +1,4757 @@
+{
+	"features": [
+		{
+			"geometry": {
+				"coordinates": [
+					280643.02833553194,
+					4826766.381814135
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0063",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281706.94886613043,
+					4826307.05341843
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0024",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282079.75687686715,
+					4825611.688816923
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0003",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					279923.5379009557,
+					4825917.829062731
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0102",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280664.98920499446,
+					4826789.476172163
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0062",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281705.7599188027,
+					4826300.3374705175
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0023",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282141.49442234216,
+					4825492.457598891
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0002",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					279942.3507152593,
+					4825935.611990978
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0093",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280716.87289556325,
+					4826840.074229135
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0061",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281719.8496110982,
+					4826279.347367486
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0022",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282165.4658294368,
+					4825398.439170192
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0004",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					279978.0344603944,
+					4826005.960320774
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0078",
+				"DIRECCION": "Izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 130,
+				"TIPO": "Electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280928.13289902447,
+					4827013.2334734425
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0060",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 130,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281735.1375853517,
+					4826261.302829103
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282571.52813711885,
+					4825362.851264642
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0051",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280062.46251669823,
+					4826107.861158572
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0086",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281852.1270420343,
+					4827287.669871071
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0099",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": "1\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281734.6433283306,
+					4826260.35063902
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0018",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283003.9753387195,
+					4825920.881802044
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0055",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280084.49777531147,
+					4826109.114751247
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0087",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 130,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281832.10467236105,
+					4827233.944285014
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0098",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": "1\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281751.43848174997,
+					4826235.695142847
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0020",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282639.1792391044,
+					4825451.772956834
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0054",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280085.2415558988,
+					4826110.044292489
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0091",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 130,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282362.18051873444,
+					4827308.570612227
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1 m",
+				"CODIGO": "CM0100",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MARCELINO LEON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281750.42941413756,
+					4826235.399259608
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282567.5500330937,
+					4825766.3775657145
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0052",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280081.93242981256,
+					4826137.517684891
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0085",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282609.7194568151,
+					4827319.6032930855
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1 m",
+				"CODIGO": "CM0101",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MARCELINO LEON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281762.16681045445,
+					4826203.210096127
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0017",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282734.0113271237,
+					4826001.874710536
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0053",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280105.89485382795,
+					4826134.531643813
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0088",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": null,
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282306.92265656806,
+					4827236.474879659
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0049",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "OLANO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281762.748040477,
+					4826203.610444585
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283096.1374881518,
+					4826042.302077926
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0056",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280099.6377262819,
+					4826161.21082439
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0084",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281994.1323128605,
+					4826957.93683855
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0045",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "I ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281770.262050551,
+					4826198.452266
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283135.9875496471,
+					4826085.650129204
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0057",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280159.7491202103,
+					4826120.792569268
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0094",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282052.331567685,
+					4826983.659250737
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0046",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "I ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281771.1386778064,
+					4826198.956803351
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0015",
+				"DIRECCION": "Izquieda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283167.3489305758,
+					4826232.739492662
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0058",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280130.61492932617,
+					4826151.1702815555
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0092",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280553.4634187234,
+					4826706.549134426
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0068",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281860.61910751584,
+					4826884.073031785
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0040",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282130.7278049445,
+					4826641.636818763
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0031",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281784.6430257001,
+					4826168.334047434
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0019",
+				"DIRECCION": "Izquieda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282015.64351965964,
+					4825705.457469368
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0009",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280933.73742430063,
+					4826712.696108324
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": null,
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280119.6088784778,
+					4826199.732603153
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0083",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280576.6236777103,
+					4826704.921834309
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0066",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281838.56471930566,
+					4826945.004157435
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0041",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 150,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281895.7348056573,
+					4826600.598228577
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0028",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281786.08386629226,
+					4826167.68814116
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282031.5824158186,
+					4825683.862841354
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0008",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282495.81325921236,
+					4826836.832372894
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0050",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "OLANO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280185.49918635597,
+					4826151.8486802
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0095",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280596.76068315684,
+					4826717.3198843775
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0065",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281856.2723788595,
+					4826960.186281063
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0042",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 150,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281849.28777884186,
+					4826577.040379282
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0027",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281783.167445889,
+					4826142.454413793
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0021",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282047.54495092214,
+					4825662.154354145
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0007",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280148.48477947415,
+					4826235.230792045
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": null,
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280618.0171494591,
+					4826737.261775402
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0064",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281879.37084552227,
+					4826989.052338118
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0043",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281825.5571113241,
+					4826565.274851813
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0026",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 130,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281783.7159885689,
+					4826142.94137776
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282063.1663478031,
+					4825648.459638352
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0006",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280364.36972527567,
+					4826320.063082969
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0096",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280609.91529206635,
+					4826754.564962529
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0067",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281906.97515437606,
+					4827016.971161753
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0044",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281667.72738532844,
+					4826352.165952201
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0032",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281795.464246642,
+					4826136.251015938
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0014",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282077.7393492127,
+					4825619.420510007
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0005",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280415.6445343435,
+					4826504.996388344
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0080",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 90,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281763.1196748132,
+					4826801.384330039
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0038",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281796.0881785133,
+					4826136.592528338
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280420.5273983473,
+					4826565.557847696
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0077",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281780.60012405814,
+					4826994.250964646
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0039",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281811.8559436987,
+					4826111.422347934
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280451.2742975259,
+					4826547.952662245
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0079",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 90,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281785.4365515685,
+					4827065.73911133
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0047",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281810.3668943465,
+					4826110.797028723
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0013",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280448.19048482954,
+					4826587.712902013
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0076",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281785.4641479118,
+					4827067.384437531
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0048",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281813.22858495056,
+					4826087.354447492
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0012",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280476.3696046782,
+					4826610.323455398
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0075",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281751.31241677824,
+					4826724.051168851
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0037",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "5\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281821.125380519,
+					4826062.012095395
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0105",
+				"DIRECCION": "Derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "Manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280489.8011277631,
+					4826620.944769044
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0074",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281724.8558016348,
+					4826658.741388929
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0036",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "5\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281853.01014054654,
+					4826065.5947782025
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0016",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280495.2014601332,
+					4826642.532394647
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0071",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281693.6786387986,
+					4826612.110614347
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0034",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "5\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281956.4091144161,
+					4825939.105597152
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0059",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280515.04706075013,
+					4826662.926671727
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0070",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281694.1450534332,
+					4826612.840905256
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0035",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "5\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282028.54934939893,
+					4825832.1519086
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0097",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280536.028778708,
+					4826659.510703485
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0073",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281664.615178262,
+					4826573.064382358
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0033",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "5\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281967.96352522285,
+					4825770.107287095
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0104",
+				"DIRECCION": "Izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "Manual",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280537.16583034693,
+					4826660.682173665
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0072",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281937.6961966091,
+					4826624.059458278
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0029",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281983.53072420537,
+					4825748.981635584
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0011",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280534.73460177484,
+					4826681.988748088
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0069",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281950.9350210965,
+					4826593.910284618
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0030",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281999.5370772007,
+					4825727.280667014
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0010",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280643.02833553194,
+					4826766.381814135
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0063",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281706.94886613043,
+					4826307.05341843
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0024",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282079.75687686715,
+					4825611.688816923
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0003",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					279923.5379009557,
+					4825917.829062731
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0102",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280664.98920499446,
+					4826789.476172163
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0062",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281705.7599188027,
+					4826300.3374705175
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0023",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282141.49442234216,
+					4825492.457598891
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0002",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					279942.3507152593,
+					4825935.611990978
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0093",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280716.87289556325,
+					4826840.074229135
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0061",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281719.8496110982,
+					4826279.347367486
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0022",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282165.4658294368,
+					4825398.439170192
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0004",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					279978.0344603944,
+					4826005.960320774
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0078",
+				"DIRECCION": "Izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 130,
+				"TIPO": "Electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280928.13289902447,
+					4827013.2334734425
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0060",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 130,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281735.1375853517,
+					4826261.302829103
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282571.52813711885,
+					4825362.851264642
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0051",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280062.46251669823,
+					4826107.861158572
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0086",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281852.1270420343,
+					4827287.669871071
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0099",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": "1\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281734.6433283306,
+					4826260.35063902
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0018",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283003.9753387195,
+					4825920.881802044
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0055",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280084.49777531147,
+					4826109.114751247
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0087",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 130,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281832.10467236105,
+					4827233.944285014
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0098",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": "1\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281751.43848174997,
+					4826235.695142847
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0020",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282639.1792391044,
+					4825451.772956834
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0054",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280085.2415558988,
+					4826110.044292489
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0091",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 130,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282362.18051873444,
+					4827308.570612227
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1 m",
+				"CODIGO": "CM0100",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MARCELINO LEON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281750.42941413756,
+					4826235.399259608
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282567.5500330937,
+					4825766.3775657145
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0052",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280081.93242981256,
+					4826137.517684891
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0085",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282609.7194568151,
+					4827319.6032930855
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1 m",
+				"CODIGO": "CM0101",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MARCELINO LEON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281762.16681045445,
+					4826203.210096127
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0017",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282734.0113271237,
+					4826001.874710536
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0053",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280105.89485382795,
+					4826134.531643813
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0088",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": null,
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282306.92265656806,
+					4827236.474879659
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0049",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "OLANO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281762.748040477,
+					4826203.610444585
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283096.1374881518,
+					4826042.302077926
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0056",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280099.6377262819,
+					4826161.21082439
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0084",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281994.1323128605,
+					4826957.93683855
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0045",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "I ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281770.262050551,
+					4826198.452266
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283135.9875496471,
+					4826085.650129204
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0057",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280159.7491202103,
+					4826120.792569268
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0094",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282052.331567685,
+					4826983.659250737
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0046",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "I ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281771.1386778064,
+					4826198.956803351
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0015",
+				"DIRECCION": "Izquieda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283167.3489305758,
+					4826232.739492662
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0058",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280130.61492932617,
+					4826151.1702815555
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0092",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280553.4634187234,
+					4826706.549134426
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0068",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281860.61910751584,
+					4826884.073031785
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0040",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282130.7278049445,
+					4826641.636818763
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0031",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281784.6430257001,
+					4826168.334047434
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0019",
+				"DIRECCION": "Izquieda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282015.64351965964,
+					4825705.457469368
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0009",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280933.73742430063,
+					4826712.696108324
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": null,
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280119.6088784778,
+					4826199.732603153
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0083",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280576.6236777103,
+					4826704.921834309
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0066",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281838.56471930566,
+					4826945.004157435
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0041",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 150,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281895.7348056573,
+					4826600.598228577
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0028",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281786.08386629226,
+					4826167.68814116
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282031.5824158186,
+					4825683.862841354
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0008",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282495.81325921236,
+					4826836.832372894
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0050",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "OLANO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280185.49918635597,
+					4826151.8486802
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0095",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280596.76068315684,
+					4826717.3198843775
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0065",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281856.2723788595,
+					4826960.186281063
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0042",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 150,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281849.28777884186,
+					4826577.040379282
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0027",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281783.167445889,
+					4826142.454413793
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0021",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282047.54495092214,
+					4825662.154354145
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0007",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280148.48477947415,
+					4826235.230792045
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": null,
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280618.0171494591,
+					4826737.261775402
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0064",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281879.37084552227,
+					4826989.052338118
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0043",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281825.5571113241,
+					4826565.274851813
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0026",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 130,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281783.7159885689,
+					4826142.94137776
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282063.1663478031,
+					4825648.459638352
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0006",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280364.36972527567,
+					4826320.063082969
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0096",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280609.91529206635,
+					4826754.564962529
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0067",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281906.97515437606,
+					4827016.971161753
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0044",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281667.72738532844,
+					4826352.165952201
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0032",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281795.464246642,
+					4826136.251015938
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0014",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282077.7393492127,
+					4825619.420510007
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0005",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280415.6445343435,
+					4826504.996388344
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0080",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 90,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281763.1196748132,
+					4826801.384330039
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0038",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281796.0881785133,
+					4826136.592528338
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280420.5273983473,
+					4826565.557847696
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0077",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281780.60012405814,
+					4826994.250964646
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0039",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281811.8559436987,
+					4826111.422347934
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": null,
+				"CODIGO": "CM####",
+				"DIRECCION": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": null,
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280451.2742975259,
+					4826547.952662245
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0079",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 90,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281785.4365515685,
+					4827065.73911133
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0047",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281810.3668943465,
+					4826110.797028723
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0013",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280448.19048482954,
+					4826587.712902013
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0076",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281785.4641479118,
+					4827067.384437531
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0048",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "TRASERA ESPIGON I"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281813.22858495056,
+					4826087.354447492
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0012",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280476.3696046782,
+					4826610.323455398
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0075",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281751.31241677824,
+					4826724.051168851
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0037",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "5\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281821.125380519,
+					4826062.012095395
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0105",
+				"DIRECCION": "Derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "Manual",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280489.8011277631,
+					4826620.944769044
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0074",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281724.8558016348,
+					4826658.741388929
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0036",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "5\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281853.01014054654,
+					4826065.5947782025
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0016",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280495.2014601332,
+					4826642.532394647
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0071",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281693.6786387986,
+					4826612.110614347
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0034",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "5\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281956.4091144161,
+					4825939.105597152
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0059",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280515.04706075013,
+					4826662.926671727
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0070",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281694.1450534332,
+					4826612.840905256
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0035",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "5\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282028.54934939893,
+					4825832.1519086
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0097",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280536.028778708,
+					4826659.510703485
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0073",
+				"DIRECCION": "derecha",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281664.615178262,
+					4826573.064382358
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0033",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "5\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281967.96352522285,
+					4825770.107287095
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0104",
+				"DIRECCION": "Izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "Manual",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280537.16583034693,
+					4826660.682173665
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0072",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281937.6961966091,
+					4826624.059458278
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0029",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281983.53072420537,
+					4825748.981635584
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0011",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280534.73460177484,
+					4826681.988748088
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0069",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": null,
+				"TIPO": "manual",
+				"UBICACION": "ABO\u00d1O SUR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281950.9350210965,
+					4826593.910284618
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0030",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "manual",
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281999.5370772007,
+					4825727.280667014
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ANCHO": "1,668 m",
+				"CODIGO": "CM0010",
+				"DIRECCION": "izquierda",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"OBSERVACIONES": null,
+				"TABLA_OLD": null,
+				"TANGENTE": 110,
+				"TIPO": "electrica",
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		}
+	],
+	"type": "FeatureCollection"
+}

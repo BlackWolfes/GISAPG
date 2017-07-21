@@ -1,0 +1,785 @@
+{
+	"features": [
+		{
+			"geometry": {
+				"coordinates": [
+					282816.48262871505,
+					4825672.513023092
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0119",
+				"DIRECCION": "MUELLE DE LA OSA (ANTIGUO CT NAVAL GIJ\u00d3N)",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 1,
+				"MSLINK_OLD": null,
+				"NUMERO": "24",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP22",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281750.10576524975,
+					4825089.402114503
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0120",
+				"DIRECCION": "ESPIG\u00d3N DE FOMENTO (TARIMA)",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 2,
+				"MSLINK_OLD": null,
+				"NUMERO": "23",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP60",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281712.497350688,
+					4827218.192879315
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0121",
+				"DIRECCION": null,
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 3,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": null,
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282235.51595944643,
+					4825325.896558893
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0122",
+				"DIRECCION": "VIAL PRINCIPAL DEL MUSEL",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 4,
+				"MSLINK_OLD": null,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP12",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282174.9455766177,
+					4825304.406141996
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0123",
+				"DIRECCION": "LA FIGAR, NAVE N\u00ba1",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 5,
+				"MSLINK_OLD": null,
+				"NUMERO": "25",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": null,
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					284557.2598593974,
+					4824592.774462004
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0124",
+				"DIRECCION": "DARSENA DE FOMENTO (RODRIGUEZ SAN PEDRO)",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 6,
+				"MSLINK_OLD": null,
+				"NUMERO": "3",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP60",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282396.13372941734,
+					4827130.436719771
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0125",
+				"DIRECCION": null,
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 7,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": null,
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282904.75285375596,
+					4826065.492882569
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0126",
+				"DIRECCION": "MUELLE DE LA OSA, 8\u00aa ALINEACI\u00d3N",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 8,
+				"MSLINK_OLD": null,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP08",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282145.20556662086,
+					4825388.316893186
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0127",
+				"DIRECCION": "LA FIGAR, NAVE N\u00ba2",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 9,
+				"MSLINK_OLD": null,
+				"NUMERO": "26",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": null,
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					284544.09134451154,
+					4824678.8880400155
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0128",
+				"DIRECCION": "ESPIG\u00d3N DE FOMENTO (TARIMA)",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 10,
+				"MSLINK_OLD": null,
+				"NUMERO": "23",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP60",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281677.3123105049,
+					4827191.87976953
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0129",
+				"DIRECCION": null,
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 11,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": null,
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282955.9267496419,
+					4826000.270175381
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0130",
+				"DIRECCION": "M. DE LA OSA, TINGLADOS OSA L.M.O.4 (1.500M2)",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 12,
+				"MSLINK_OLD": null,
+				"NUMERO": "7",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP08",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281986.7101109648,
+					4825607.51948371
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0131",
+				"DIRECCION": "VIAL DE ACCESO EXTERIOR DE LA FIGAR, CT16",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 13,
+				"MSLINK_OLD": null,
+				"NUMERO": "27",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": null,
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					284595.12792019127,
+					4824974.658151104
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0132",
+				"DIRECCION": "CLAUDIO ALVARGONZALEZ (OF. PUERTO DEP.)",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 14,
+				"MSLINK_OLD": null,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP60",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281265.33528687956,
+					4827237.10374005
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0133",
+				"DIRECCION": null,
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 15,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": null,
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282002.66306427243,
+					4826272.749698546
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0134",
+				"DIRECCION": "MUELLE RENDIELLO, 6\u00aa ALINEACI\u00d3N",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 16,
+				"MSLINK_OLD": null,
+				"NUMERO": "9",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP07",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283216.7004498744,
+					4826192.739410575
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0135",
+				"DIRECCION": "MUELLE MOLINER",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 17,
+				"MSLINK_OLD": null,
+				"NUMERO": "8",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP09",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					284322.47260071756,
+					4824477.867081208
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0136",
+				"DIRECCION": "ESPIG\u00d3N DE FOMENTO (TARIMA)",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 18,
+				"MSLINK_OLD": null,
+				"NUMERO": "23",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP60",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280271.2241307235,
+					4826303.65445283
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0137",
+				"DIRECCION": null,
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 19,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": null,
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281800.98893846513,
+					4826576.629877732
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0138",
+				"DIRECCION": "VIAL 2\u00ba ESPIG\u00d3N",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 20,
+				"MSLINK_OLD": null,
+				"NUMERO": "11",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP05",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282280.58862267254,
+					4826160.468481958
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0139",
+				"DIRECCION": "MUELLE DE RENDIELLO, ESPIG\u00d3N",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 21,
+				"MSLINK_OLD": null,
+				"NUMERO": "10",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP06",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281856.9345604706,
+					4827461.08754348
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0140",
+				"DIRECCION": "VIAL DE ACCESO AL MUELLE NORTE",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 22,
+				"MSLINK_OLD": null,
+				"NUMERO": "22",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP02",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281148.37482829095,
+					4827157.32335032
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0141",
+				"DIRECCION": null,
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 23,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": null,
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282081.8194539762,
+					4826671.624029095
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0142",
+				"DIRECCION": "2\u00ba ESPIG\u00d3N",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 24,
+				"MSLINK_OLD": null,
+				"NUMERO": "12",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP04",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					284590.242455678,
+					4825112.193990967
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0143",
+				"DIRECCION": "CLAUDIO ALVARGONZALEZ 32 (OF. CENTRALES)",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 25,
+				"MSLINK_OLD": null,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP60",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281908.7351573515,
+					4827594.647570668
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0144",
+				"DIRECCION": null,
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 26,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": null,
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					280397.98058502196,
+					4826349.720763573
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0145",
+				"DIRECCION": null,
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 27,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": null,
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282697.59054314136,
+					4825728.754012756
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0146",
+				"DIRECCION": "M. DE LA OSA, TINGLADOS OSA L.MO.5 (7.500M2)",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 28,
+				"MSLINK_OLD": null,
+				"NUMERO": "21",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP08",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					284664.7708889556,
+					4824710.745253005
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0147",
+				"DIRECCION": "DARSENA DE FOMENTIN",
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 29,
+				"MSLINK_OLD": null,
+				"NUMERO": "2",
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": "AP60",
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281896.07699053525,
+					4826993.04850214
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"CEL_NAME": "S_Armario_C.M.",
+				"CEL_ROTATION": null,
+				"CEL_XSCALE": null,
+				"CEL_YSCALE": null,
+				"CODIGO": "CUAD0148",
+				"DIRECCION": null,
+				"FECHA": "2017-06-21 14:49:47.2000000",
+				"FID_OLD": 30,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PERMISOS": "1",
+				"SISTEMA": null,
+				"TABLA_OLD": "ARMARIO_CMANDO"
+			},
+			"type": "Feature"
+		}
+	],
+	"type": "FeatureCollection"
+}

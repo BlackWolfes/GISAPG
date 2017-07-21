@@ -1,0 +1,5207 @@
+{
+	"features": [
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282335.02417466877,
+							4826182.710372587
+						],
+						[
+							282356.1515308571,
+							4826159.606563449
+						],
+						[
+							282350.22430413007,
+							4826154.18022523
+						],
+						[
+							282329.1140462828,
+							4826177.2703059865
+						],
+						[
+							282335.02417466877,
+							4826182.710372587
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMR15",
+				"DENOMINACION": null,
+				"FECHA": null,
+				"MSLNK_OLD": 10374,
+				"OBSERVACIONES": null,
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": null,
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							284582.25687987806,
+							4824977.206241756
+						],
+						[
+							284591.20512707473,
+							4824968.737958844
+						],
+						[
+							284578.9012531066,
+							4824955.692419868
+						],
+						[
+							284570.081182487,
+							4824964.232443304
+						],
+						[
+							284582.25687987806,
+							4824977.206241756
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EPL07",
+				"DENOMINACION": "Tinglado Restaurante",
+				"FECHA": null,
+				"MSLNK_OLD": 10151,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Puerto Local",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							280189.58756402496,
+							4826335.022217465
+						],
+						[
+							280199.2677849746,
+							4826346.912357116
+						],
+						[
+							280204.0878514743,
+							4826342.982345836
+						],
+						[
+							280194.41763069393,
+							4826331.092206235
+						],
+						[
+							280189.58756402496,
+							4826335.022217465
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": null,
+				"DENOMINACION": null,
+				"FECHA": null,
+				"MSLNK_OLD": null,
+				"OBSERVACIONES": null,
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": null,
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": null,
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282343.77602351294,
+							4826157.972769584
+						],
+						[
+							282345.39975213853,
+							4826159.457247216
+						],
+						[
+							282349.5158034887,
+							4826154.955172513
+						],
+						[
+							282347.8920748634,
+							4826153.47069488
+						],
+						[
+							282343.77602351294,
+							4826157.972769584
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "N/T",
+				"DENOMINACION": "Tendej\u00f3n en Muelle Rendiello y Pasarela limpieza edificio servicios m\u00faltiples",
+				"FECHA": null,
+				"MSLNK_OLD": 10360,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Espig\u00f3n II",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							284595.3256689286,
+							4824991.127628148
+						],
+						[
+							284608.06198722124,
+							4825004.693118358
+						],
+						[
+							284617.0920586944,
+							4824995.82309309
+						],
+						[
+							284604.3899850678,
+							4824982.4914481975
+						],
+						[
+							284595.3256689286,
+							4824991.127628148
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "2001",
+				"ANIO_REFORMA": "No",
+				"ANIO_REHABILITACION": "No",
+				"CODIGO": "EPL06",
+				"DENOMINACION": "Sala Exposiciones Puerto Deportivo",
+				"FECHA": null,
+				"MSLNK_OLD": 10150,
+				"OBSERVACIONES": "",
+				"PLANTAS": 1,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": "0",
+				"SERV_CALEFACCION": "0",
+				"SERV_CLIMATIZACION": "1",
+				"SERV_CONTRAINCENDIOS": "Alarmas y Extintores",
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Cobre",
+				"TIPO_ESTRUCTURA": "Madera",
+				"TIPO_FACHADA": "Madera",
+				"UBICACION": "Puerto Local",
+				"VALOR_CONTABLE": 146335.0,
+				"VALOR_EQ_INFORMATICO": 0.0,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": 0.0,
+				"VALOR_NUEVO": 417000.0,
+				"VALOR_REAL": 333792.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							280207.67798027996,
+							4826357.992484534
+						],
+						[
+							280215.01814730646,
+							4826366.882589295
+						],
+						[
+							280220.1082172704,
+							4826362.672576875
+						],
+						[
+							280212.76805024146,
+							4826353.782472124
+						],
+						[
+							280207.67798027996,
+							4826357.992484534
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": null,
+				"DENOMINACION": null,
+				"FECHA": null,
+				"MSLNK_OLD": null,
+				"OBSERVACIONES": null,
+				"PLANTAS": 1,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": null,
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": null,
+				"VALOR_CONTABLE": 0.0,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 0.0,
+				"VALOR_MOBILIARIO": 0.0,
+				"VALOR_NUEVO": 0.0,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281781.3739340709,
+							4826605.556617986
+						],
+						[
+							281800.4642620919,
+							4826614.639709215
+						],
+						[
+							281798.90127110085,
+							4826617.860518794
+						],
+						[
+							281802.4999916476,
+							4826619.6068923315
+						],
+						[
+							281804.06298263726,
+							4826616.386082757
+						],
+						[
+							281806.7620230473,
+							4826617.695862909
+						],
+						[
+							281811.7828041469,
+							4826607.349686929
+						],
+						[
+							281786.4658051668,
+							4826595.063948938
+						],
+						[
+							281781.3739340709,
+							4826605.556617986
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "2006",
+				"ANIO_REFORMA": "No",
+				"ANIO_REHABILITACION": "No",
+				"CODIGO": "EALI502",
+				"DENOMINACION": "PIF",
+				"FECHA": null,
+				"MSLNK_OLD": 10310,
+				"OBSERVACIONES": "",
+				"PLANTAS": 1,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": "0",
+				"SERV_CALEFACCION": "0",
+				"SERV_CLIMATIZACION": "1",
+				"SERV_CONTRAINCENDIOS": "Extintores",
+				"SUPERFICIE": 848,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Paneles de Chapa",
+				"TIPO_ESTRUCTURA": "Hormig\u00f3n armado y met\u00e1lica",
+				"TIPO_FACHADA": "Paneles de Chapa",
+				"UBICACION": "Alineaciones de Ribera",
+				"VALOR_CONTABLE": 390817.0,
+				"VALOR_EQ_INFORMATICO": 0.0,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": 0.0,
+				"VALOR_NUEVO": 408000.0,
+				"VALOR_REAL": 408000.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282217.19227418664,
+							4826214.050094135
+						],
+						[
+							282248.28288847447,
+							4826229.730347619
+						],
+						[
+							282289.0132158494,
+							4826148.939918008
+						],
+						[
+							282257.55259477854,
+							4826133.129661346
+						],
+						[
+							282217.19227418664,
+							4826214.050094135
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "1984",
+				"ANIO_REFORMA": "No",
+				"ANIO_REHABILITACION": "No",
+				"CODIGO": "EMR01",
+				"DENOMINACION": "Lonja",
+				"FECHA": null,
+				"MSLNK_OLD": 10153,
+				"OBSERVACIONES": "",
+				"PLANTAS": 1,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": "0",
+				"SERV_CALEFACCION": "0",
+				"SERV_CLIMATIZACION": "0",
+				"SERV_CONTRAINCENDIOS": "Extintores",
+				"SUPERFICIE": 4023,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Chapa lacada",
+				"TIPO_ESTRUCTURA": "Hormig\u00f3n armado",
+				"TIPO_FACHADA": "Ladrillo revestido con cer\u00e1mica",
+				"UBICACION": "Rendiello y 6\u00aa Alineaci\u00f3n",
+				"VALOR_CONTABLE": 402776.0,
+				"VALOR_EQ_INFORMATICO": 0.0,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": 0.0,
+				"VALOR_NUEVO": 1325000.0,
+				"VALOR_REAL": 927000.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							283210.92129374266,
+							4826191.883809757
+						],
+						[
+							283217.80844688177,
+							4826200.665415564
+						],
+						[
+							283224.4182442761,
+							4826195.481651788
+						],
+						[
+							283217.5310911298,
+							4826186.700045986
+						],
+						[
+							283210.92129374266,
+							4826191.883809757
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "2004",
+				"ANIO_REFORMA": "2004",
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMO01",
+				"DENOMINACION": "Centro de Transformaci\u00f3n N09",
+				"FECHA": null,
+				"MSLNK_OLD": 10130,
+				"OBSERVACIONES": "Potencia Transformador: 1650 Kva y 1250 Kva",
+				"PLANTAS": null,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": "Extintores y Extinci\u00f3n autom\u00e1tica CO2",
+				"SUPERFICIE": 75,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Hormig\u00f3n",
+				"TIPO_ESTRUCTURA": "Bloque de Hormig\u00f3n",
+				"TIPO_FACHADA": "Bloque de Hormig\u00f3n",
+				"UBICACION": "Muelle de la Osa",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 103000.0,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": 15000.0,
+				"VALOR_REAL": 13500.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							284582.25687987806,
+							4824977.206241756
+						],
+						[
+							284595.3256689286,
+							4824991.127628148
+						],
+						[
+							284604.3899850678,
+							4824982.4914481975
+						],
+						[
+							284591.20512707473,
+							4824968.737958844
+						],
+						[
+							284582.25687987806,
+							4824977.206241756
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "1988",
+				"ANIO_REFORMA": "No",
+				"ANIO_REHABILITACION": "No",
+				"CODIGO": "EPL04",
+				"DENOMINACION": "Oficinas del Puerto Deportivo",
+				"FECHA": null,
+				"MSLNK_OLD": 10152,
+				"OBSERVACIONES": "Calefacci\u00f3n y A.C.S. Gas Natural, Roca, 6100, 124kw",
+				"PLANTAS": 4,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": "0",
+				"SERV_CALEFACCION": "1",
+				"SERV_CLIMATIZACION": "0",
+				"SERV_CONTRAINCENDIOS": "Extintores",
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Cobre",
+				"TIPO_ESTRUCTURA": "Hormig\u00f3n armado y met\u00e1lica",
+				"TIPO_FACHADA": "Piedra y ladrillo enfosado y pintado",
+				"UBICACION": "Puerto Local",
+				"VALOR_CONTABLE": 493250.0,
+				"VALOR_EQ_INFORMATICO": 0.0,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": 0.0,
+				"VALOR_NUEVO": 978000.0,
+				"VALOR_REAL": 782650.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							280268.34880228946,
+							4826305.212316244
+						],
+						[
+							280270.63885430084,
+							4826307.962348721
+						],
+						[
+							280273.41889242583,
+							4826305.652341945
+						],
+						[
+							280271.11884023994,
+							4826302.902309426
+						],
+						[
+							280268.34880228946,
+							4826305.212316244
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EAB02",
+				"DENOMINACION": "Centro Transformaci\u00f3n H C",
+				"FECHA": null,
+				"MSLNK_OLD": 10302,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Abo\u00f1o",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281845.8377496219,
+							4826629.301655989
+						],
+						[
+							281861.3480555034,
+							4826636.901779759
+						],
+						[
+							281864.6380816269,
+							4826630.181742194
+						],
+						[
+							281849.12777575734,
+							4826622.581618399
+						],
+						[
+							281845.8377496219,
+							4826629.301655989
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EALI503",
+				"DENOMINACION": "Proas",
+				"FECHA": null,
+				"MSLNK_OLD": 10332,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "4\u00aa y 5\u00aa Alineaci\u00f3n",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282293.7431689167,
+							4826121.549733035
+						],
+						[
+							282269.4326890063,
+							4826109.319534445
+						],
+						[
+							282257.55259477854,
+							4826133.129661346
+						],
+						[
+							282281.7130716682,
+							4826145.259858396
+						],
+						[
+							282293.7431689167,
+							4826121.549733035
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMR16",
+				"DENOMINACION": "Fabrica de Hielo - Lonja Gij\u00f3n Musel, S.A.",
+				"FECHA": null,
+				"MSLNK_OLD": 10154,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Rendiello y 6\u00aa Alineaci\u00f3n",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							283075.1896793747,
+							4825968.191827147
+						],
+						[
+							283077.9281018639,
+							4825966.040970333
+						],
+						[
+							283079.78122249607,
+							4825968.400256057
+						],
+						[
+							283082.6504451275,
+							4825966.146622133
+						],
+						[
+							283084.5035700941,
+							4825968.505912285
+						],
+						[
+							283087.6193800235,
+							4825966.058643818
+						],
+						[
+							283083.8822260547,
+							4825961.300782595
+						],
+						[
+							283086.3890480876,
+							4825959.331772867
+						],
+						[
+							283088.27308371785,
+							4825961.730417771
+						],
+						[
+							283094.20267177105,
+							4825957.07308856
+						],
+						[
+							283090.49568572047,
+							4825952.353568904
+						],
+						[
+							283093.18700613023,
+							4825950.304712615
+						],
+						[
+							283095.0086775637,
+							4825952.623979826
+						],
+						[
+							283097.74534297944,
+							4825950.475659139
+						],
+						[
+							283099.5975979877,
+							4825952.835588353
+						],
+						[
+							283102.6010885191,
+							4825950.475258415
+						],
+						[
+							283095.22296124697,
+							4825940.971388135
+						],
+						[
+							283092.123386662,
+							4825943.319857567
+						],
+						[
+							283093.97649813176,
+							4825945.679131625
+						],
+						[
+							283091.4307167888,
+							4825947.678606324
+						],
+						[
+							283087.724440887,
+							4825942.960087319
+						],
+						[
+							283082.0441245175,
+							4825947.421696527
+						],
+						[
+							283083.89724861144,
+							4825949.7809864925
+						],
+						[
+							283081.04645975115,
+							4825952.020106847
+						],
+						[
+							283079.1933359027,
+							4825949.660817013
+						],
+						[
+							283076.1144685793,
+							4825952.079079225
+						],
+						[
+							283077.96759250166,
+							4825954.438369153
+						],
+						[
+							283075.1395958471,
+							4825956.659587782
+						],
+						[
+							283076.9951853967,
+							4825959.022016802
+						],
+						[
+							283074.44934723614,
+							4825961.023002424
+						],
+						[
+							283072.59145813226,
+							4825958.660993857
+						],
+						[
+							283069.5685365844,
+							4825961.035314092
+						],
+						[
+							283075.1896793747,
+							4825968.191827147
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMO22",
+				"DENOMINACION": null,
+				"FECHA": null,
+				"MSLNK_OLD": 10372,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": null,
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							284613.2923945928,
+							4825056.013670852
+						],
+						[
+							284620.1925238681,
+							4825060.7537672045
+						],
+						[
+							284628.742565341,
+							4825048.313702655
+						],
+						[
+							284624.71248989104,
+							4825045.553646459
+						],
+						[
+							284621.83243592264,
+							4825043.573606227
+						],
+						[
+							284620.47242933273,
+							4825045.553616505
+						],
+						[
+							284613.2923945928,
+							4825056.013670852
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EPL05",
+				"DENOMINACION": "Sanidad Exterior",
+				"FECHA": null,
+				"MSLNK_OLD": 10300,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Puerto Local",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							280390.2511285043,
+							4826351.5232245065
+						],
+						[
+							280396.4512733841,
+							4826359.843319135
+						],
+						[
+							280403.22136811254,
+							4826354.653306289
+						],
+						[
+							280395.8111933279,
+							4826344.343190213
+						],
+						[
+							280391.99113962176,
+							4826347.213196979
+						],
+						[
+							280393.37117114785,
+							4826348.903216729
+						],
+						[
+							280390.2511285043,
+							4826351.5232245065
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EAB15",
+				"DENOMINACION": "C.T. N \u00ba 11 (EBHI)",
+				"FECHA": null,
+				"MSLNK_OLD": 10101,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Abo\u00f1o",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281796.5516611314,
+							4826575.915104632
+						],
+						[
+							281807.1206467104,
+							4826581.151223696
+						],
+						[
+							281808.43267423153,
+							4826578.706319494
+						],
+						[
+							281797.69274296524,
+							4826573.317470532
+						],
+						[
+							281796.5516611314,
+							4826575.915104632
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "1994",
+				"ANIO_REFORMA": "1994",
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EE208",
+				"DENOMINACION": "Centro de Transformaci\u00f3n N05",
+				"FECHA": null,
+				"MSLNK_OLD": 10124,
+				"OBSERVACIONES": "Potencia Transformador: 1000 Kva",
+				"PLANTAS": null,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": "Extintores y Extinci\u00f3n autom\u00e1tica CO2",
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Hormig\u00f3n",
+				"TIPO_ESTRUCTURA": "Prefabricado de Hormig\u00f3n",
+				"TIPO_FACHADA": "Hormig\u00f3n",
+				"UBICACION": "Espig\u00f3n II",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 57500.0,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": 13600.0,
+				"VALOR_REAL": 12600.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282246.7757370305,
+							4826230.530659633
+						],
+						[
+							282247.847203393,
+							4826231.07104342
+						],
+						[
+							282248.38454540493,
+							4826230.005614996
+						],
+						[
+							282247.3130790424,
+							4826229.465231209
+						],
+						[
+							282246.7757370305,
+							4826230.530659633
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": null,
+				"DENOMINACION": null,
+				"FECHA": null,
+				"MSLNK_OLD": null,
+				"OBSERVACIONES": null,
+				"PLANTAS": 0,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": 0,
+				"TABLE_OLD": null,
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": null,
+				"VALOR_CONTABLE": 0.0,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 0.0,
+				"VALOR_MOBILIARIO": 0.0,
+				"VALOR_NUEVO": 0.0,
+				"VALOR_REAL": 0.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282818.54612434865,
+							4825677.369701896
+						],
+						[
+							282820.7149757147,
+							4825675.590342496
+						],
+						[
+							282816.0664807367,
+							4825669.722726967
+						],
+						[
+							282813.8438091636,
+							4825671.457356656
+						],
+						[
+							282818.54612434865,
+							4825677.369701896
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "2004",
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": "19,5",
+				"CODIGO": "EMO09",
+				"DENOMINACION": "Centro de Transformaci\u00f3n N22",
+				"FECHA": null,
+				"MSLNK_OLD": 10307,
+				"OBSERVACIONES": "Potencia Transformador: 800 Kva",
+				"PLANTAS": null,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": "Extintores",
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Hormig\u00f3n",
+				"TIPO_ESTRUCTURA": "Prefabricado de Hormig\u00f3n",
+				"TIPO_FACHADA": "Hormig\u00f3n",
+				"UBICACION": "Muelle de la Osa",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 51700.0,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": 12500.0,
+				"VALOR_REAL": 12500.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							284584.0823556113,
+							4825114.354050694
+						],
+						[
+							284598.6926021361,
+							4825120.194212496
+						],
+						[
+							284621.4425849605,
+							4825067.423843031
+						],
+						[
+							284609.2423755145,
+							4825061.993702317
+						],
+						[
+							284587.2323817992,
+							4825111.4540437935
+						],
+						[
+							284585.6623554206,
+							4825110.844026582
+						],
+						[
+							284584.0823556113,
+							4825114.354050694
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "1909",
+				"ANIO_REFORMA": "2008",
+				"ANIO_REHABILITACION": "No",
+				"CODIGO": "EPL01",
+				"DENOMINACION": "Direccion y Anexo",
+				"FECHA": "2005/10/27 00:00:00",
+				"MSLNK_OLD": 10176,
+				"OBSERVACIONES": "2 de Gasoil: Caldera ACS 54,1 Kw y Calera 156,5 Kw",
+				"PLANTAS": 4,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": "1",
+				"SERV_CALEFACCION": "1",
+				"SERV_CLIMATIZACION": "1",
+				"SERV_CONTRAINCENDIOS": "Sistema contra incendios, alarma y extintores",
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Pizarra",
+				"TIPO_ESTRUCTURA": "Muros de Carga, met\u00e1lica y hormig\u00f3n armado",
+				"TIPO_FACHADA": "Ladrillo macizo visto",
+				"UBICACION": "Puerto Local",
+				"VALOR_CONTABLE": 1730000.0,
+				"VALOR_EQ_INFORMATICO": 50000.0,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": 447170.0,
+				"VALOR_NUEVO": 4048160.0,
+				"VALOR_REAL": 3625000.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							280916.9536395979,
+							4827092.051412625
+						],
+						[
+							280925.0838337493,
+							4827103.521537342
+						],
+						[
+							280931.16392071487,
+							4827099.21152782
+						],
+						[
+							280929.8438892007,
+							4827097.351507595
+						],
+						[
+							280937.10399292706,
+							4827092.18149606
+						],
+						[
+							280930.2038286161,
+							4827082.551391068
+						],
+						[
+							280921.05369808915,
+							4827089.111405943
+						],
+						[
+							280919.71366618393,
+							4827087.241385546
+						],
+						[
+							280917.213630507,
+							4827089.031389599
+						],
+						[
+							280918.55366245745,
+							4827090.911410075
+						],
+						[
+							280916.9536395979,
+							4827092.051412625
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "TR18",
+				"DENOMINACION": "C.T. N \u00ba 18 (Explanada Abo\u00f1o - Sur)",
+				"FECHA": null,
+				"MSLNK_OLD": 10323,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Abo\u00f1o",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281749.2948284602,
+							4826362.429194508
+						],
+						[
+							281750.0748632741,
+							4826367.009233105
+						],
+						[
+							281757.8549916816,
+							4826365.499255066
+						],
+						[
+							281757.0749576068,
+							4826361.0792177105
+						],
+						[
+							281749.2948284602,
+							4826362.429194508
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": null,
+				"DENOMINACION": null,
+				"FECHA": null,
+				"MSLNK_OLD": null,
+				"OBSERVACIONES": null,
+				"PLANTAS": 0,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": 0,
+				"TABLE_OLD": null,
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": null,
+				"VALOR_CONTABLE": 0.0,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 0.0,
+				"VALOR_MOBILIARIO": 0.0,
+				"VALOR_NUEVO": 0.0,
+				"VALOR_REAL": 0.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281866.47604150296,
+							4825798.70378289
+						],
+						[
+							281901.9568733549,
+							4825823.544404111
+						],
+						[
+							281913.51675189735,
+							4825807.425305808
+						],
+						[
+							281878.03592015983,
+							4825782.5846844865
+						],
+						[
+							281866.47604150296,
+							4825798.70378289
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EFIGA09",
+				"DENOMINACION": "Repuestos Amado",
+				"FECHA": null,
+				"MSLNK_OLD": 10341,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": null,
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282849.29164216993,
+							4825660.369753833
+						],
+						[
+							282866.13304537535,
+							4825682.034233475
+						],
+						[
+							282877.7153212643,
+							4825672.976991873
+						],
+						[
+							282875.21411501645,
+							4825669.757278817
+						],
+						[
+							282876.8128177595,
+							4825668.418393736
+						],
+						[
+							282871.74849259615,
+							4825661.909310255
+						],
+						[
+							282870.0703011203,
+							4825663.163417766
+						],
+						[
+							282860.88577390194,
+							4825651.326093516
+						],
+						[
+							282849.29164216993,
+							4825660.369753833
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMO13",
+				"DENOMINACION": "Moton\u00e1utica edificio capitan\u00eda y servicios",
+				"FECHA": "2008/04/22 00:00:00",
+				"MSLNK_OLD": 10335,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Osa y Moliner",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							284584.0324583006,
+							4825130.304210606
+						],
+						[
+							284592.2225941396,
+							4825133.214297643
+						],
+						[
+							284595.4825788498,
+							4825123.674224801
+						],
+						[
+							284587.3324442315,
+							4825120.8641390465
+						],
+						[
+							284584.0324583006,
+							4825130.304210606
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "1920",
+				"ANIO_REFORMA": "2008",
+				"ANIO_REHABILITACION": "2008",
+				"CODIGO": "EPL02",
+				"DENOMINACION": "Vig\u00eda",
+				"FECHA": "2005/10/27 00:00:00",
+				"MSLNK_OLD": 10149,
+				"OBSERVACIONES": "",
+				"PLANTAS": 3,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": "0",
+				"SERV_CALEFACCION": "0",
+				"SERV_CLIMATIZACION": "0",
+				"SERV_CONTRAINCENDIOS": "Extintores",
+				"SUPERFICIE": 270,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Teja curva",
+				"TIPO_ESTRUCTURA": "Muros de Carga, met\u00e1lica y hormig\u00f3n armado",
+				"TIPO_FACHADA": "Muros, ladrillo piedra, enfoscados y pintados",
+				"UBICACION": "Puerto Local",
+				"VALOR_CONTABLE": 99916.0,
+				"VALOR_EQ_INFORMATICO": 0.0,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": 0.0,
+				"VALOR_NUEVO": 405000.0,
+				"VALOR_REAL": 243000.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281139.21782882215,
+							4827157.64283958
+						],
+						[
+							281143.3679135204,
+							4827160.282877312
+						],
+						[
+							281144.577926116,
+							4827158.392867291
+						],
+						[
+							281147.5279863405,
+							4827160.272894135
+						],
+						[
+							281152.5080379844,
+							4827152.452852588
+						],
+						[
+							281145.4078930664,
+							4827147.932788
+						],
+						[
+							281139.21782882215,
+							4827157.64283958
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "2008",
+				"ANIO_REFORMA": "2008",
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EAB01",
+				"DENOMINACION": "Centro de Transformaci\u00f3n N10",
+				"FECHA": null,
+				"MSLNK_OLD": 10100,
+				"OBSERVACIONES": "Potencia Transformador: 1600 Kva",
+				"PLANTAS": null,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": "Extintores y Extinci\u00f3n autom\u00e1tica CO2",
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Teja",
+				"TIPO_ESTRUCTURA": "Hormig\u00f3n armado",
+				"TIPO_FACHADA": "Ladrillo cara vista",
+				"UBICACION": "Abo\u00f1o",
+				"VALOR_CONTABLE": 45347.39,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 64000.0,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": 17500.0,
+				"VALOR_REAL": 12500.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281846.2624033976,
+							4826477.113789589
+						],
+						[
+							281834.7388389635,
+							4826471.157216639
+						],
+						[
+							281818.589278748,
+							4826502.603808756
+						],
+						[
+							281830.17390314344,
+							4826508.5308976555
+						],
+						[
+							281846.2624033976,
+							4826477.113789589
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": null,
+				"DENOMINACION": null,
+				"FECHA": null,
+				"MSLNK_OLD": null,
+				"OBSERVACIONES": null,
+				"PLANTAS": 0,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": 0,
+				"TABLE_OLD": null,
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": null,
+				"VALOR_CONTABLE": 0.0,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 0.0,
+				"VALOR_MOBILIARIO": 0.0,
+				"VALOR_NUEVO": 0.0,
+				"VALOR_REAL": 0.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281984.02500265464,
+							4825606.943446023
+						],
+						[
+							281989.79512967286,
+							4825611.653523628
+						],
+						[
+							281991.4751465515,
+							4825609.593509404
+						],
+						[
+							281985.7050195348,
+							4825604.8834318
+						],
+						[
+							281984.02500265464,
+							4825606.943446023
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "1999",
+				"ANIO_REFORMA": "1999",
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EFIGA04",
+				"DENOMINACION": "Centro de Transformaci\u00f3n N16",
+				"FECHA": null,
+				"MSLNK_OLD": 10128,
+				"OBSERVACIONES": "Potencia Transformador: 630 Kva",
+				"PLANTAS": null,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": "Extintores",
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Hormig\u00f3n",
+				"TIPO_ESTRUCTURA": "Prefabricado de Hormig\u00f3n",
+				"TIPO_FACHADA": "Hormig\u00f3n",
+				"UBICACION": "La Figar",
+				"VALOR_CONTABLE": 26871.24,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 47500.0,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": 12500.0,
+				"VALOR_REAL": 12500.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282961.65890630963,
+							4825570.652592283
+						],
+						[
+							282906.34820922854,
+							4825613.67804121
+						],
+						[
+							282924.98181681393,
+							4825637.423455882
+						],
+						[
+							282980.15644073964,
+							4825594.363339925
+						],
+						[
+							282961.65890630963,
+							4825570.652592283
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMO12",
+				"DENOMINACION": "Moton\u00e1utica nave reparaci\u00f3n y exposici\u00f3n",
+				"FECHA": "2008/04/22 00:00:00",
+				"MSLNK_OLD": 10334,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Osa y Moliner",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282629.99153382063,
+							4826651.705131531
+						],
+						[
+							282632.38158037426,
+							4826652.725149141
+						],
+						[
+							282633.4315869808,
+							4826650.265135343
+						],
+						[
+							282631.0415404296,
+							4826649.245117731
+						],
+						[
+							282629.99153382063,
+							4826651.705131531
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMOL09",
+				"DENOMINACION": "Faro",
+				"FECHA": "2005/10/27 00:00:00",
+				"MSLNK_OLD": 10173,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Muelle Olano",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281258.0623796058,
+							4827698.607579613
+						],
+						[
+							281258.08239328384,
+							4827701.52760268
+						],
+						[
+							281270.76261598826,
+							4827701.447651284
+						],
+						[
+							281270.70257644414,
+							4827693.01758471
+						],
+						[
+							281260.62239944696,
+							4827693.087546096
+						],
+						[
+							281260.6524251223,
+							4827698.597589593
+						],
+						[
+							281258.0623796058,
+							4827698.607579613
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "TR19",
+				"DENOMINACION": "C.T. N \u00ba 19 (Explanada Abo\u00f1o - Norte)",
+				"FECHA": null,
+				"MSLNK_OLD": 10324,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Abo\u00f1o",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281851.7524224901,
+							4826526.426944809
+						],
+						[
+							281864.7924754524,
+							4826500.792968369
+						],
+						[
+							281847.62887033465,
+							4826491.843025834
+						],
+						[
+							281834.58881732944,
+							4826517.477002373
+						],
+						[
+							281851.7524224901,
+							4826526.426944809
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": null,
+				"DENOMINACION": null,
+				"FECHA": null,
+				"MSLNK_OLD": null,
+				"OBSERVACIONES": null,
+				"PLANTAS": 0,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": 0,
+				"TABLE_OLD": null,
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": null,
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 0.0,
+				"VALOR_MOBILIARIO": 0.0,
+				"VALOR_NUEVO": 0.0,
+				"VALOR_REAL": 0.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282052.1726152611,
+							4825002.877304373
+						],
+						[
+							282055.8927026391,
+							4825006.997366795
+						],
+						[
+							282058.7327356601,
+							4825004.437353466
+						],
+						[
+							282061.2827955413,
+							4825007.257396203
+						],
+						[
+							282067.0628626037,
+							4825002.02736888
+						],
+						[
+							282064.45280134917,
+							4824999.147325204
+						],
+						[
+							282066.80282858614,
+							4824997.017314064
+						],
+						[
+							282063.112742064,
+							4824992.957252435
+						],
+						[
+							282052.1726152611,
+							4825002.877304373
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "1988",
+				"ANIO_REFORMA": "1988",
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "TR14",
+				"DENOMINACION": "Centro de Transformaci\u00f3n N14",
+				"FECHA": null,
+				"MSLNK_OLD": 10320,
+				"OBSERVACIONES": "Potencia Transformador: No tiene",
+				"PLANTAS": null,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": "Extintores",
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Teja",
+				"TIPO_ESTRUCTURA": "Hormig\u00f3n armado",
+				"TIPO_FACHADA": "Ladrillo cara vista",
+				"UBICACION": "La Figar",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 37300.0,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": 23000.0,
+				"VALOR_REAL": 16000.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282496.9549142909,
+							4825246.826033152
+						],
+						[
+							282499.4339942479,
+							4825249.96526073
+						],
+						[
+							282501.28613467934,
+							4825248.502633414
+						],
+						[
+							282498.80705471995,
+							4825245.363405838
+						],
+						[
+							282496.9549142909,
+							4825246.826033152
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMO19",
+				"DENOMINACION": "Caseta Guardia Civil en Control A1 Planta",
+				"FECHA": null,
+				"MSLNK_OLD": 10358,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Muelle de la Osa",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282021.69654940366,
+							4827856.161741567
+						],
+						[
+							282028.5367288971,
+							4827868.791863955
+						],
+						[
+							282033.86680938484,
+							4827865.921862419
+						],
+						[
+							282034.79683389905,
+							4827867.6618792275
+						],
+						[
+							282037.03687630413,
+							4827868.291892571
+						],
+						[
+							282039.1369080186,
+							4827867.161891975
+						],
+						[
+							282039.86690919637,
+							4827864.661875717
+						],
+						[
+							282039.06688809395,
+							4827863.161861236
+						],
+						[
+							282044.0669635534,
+							4827860.461859755
+						],
+						[
+							282037.2367840314,
+							4827847.791737151
+						],
+						[
+							282021.69654940366,
+							4827856.161741567
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "1923",
+				"ANIO_REFORMA": "2002",
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "FATO",
+				"DENOMINACION": "Faro Torres",
+				"FECHA": null,
+				"MSLNK_OLD": 10180,
+				"OBSERVACIONES": "",
+				"PLANTAS": 2,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": 520,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Plana visitable",
+				"TIPO_ESTRUCTURA": "Muros de Carga, met\u00e1lica y hormig\u00f3n armado",
+				"TIPO_FACHADA": "Piedra, ladrillos enfoscados y pintados",
+				"UBICACION": "Torres",
+				"VALOR_CONTABLE": 556154.94,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 357000.0,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": 563300.0,
+				"VALOR_REAL": 563300.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281850.1317698479,
+							4826439.775957706
+						],
+						[
+							281888.7831287527,
+							4826459.626568305
+						],
+						[
+							281909.8671027875,
+							4826418.573988457
+						],
+						[
+							281904.91892825364,
+							4826416.0326991035
+						],
+						[
+							281899.97075372003,
+							4826413.4914097525
+						],
+						[
+							281895.07095690013,
+							4826423.031798094
+						],
+						[
+							281885.8195384503,
+							4826418.280443607
+						],
+						[
+							281890.7193352795,
+							4826408.740055246
+						],
+						[
+							281871.2157440424,
+							4826398.723377495
+						],
+						[
+							281850.1317698479,
+							4826439.775957706
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EE211",
+				"DENOMINACION": "Operadores Portuarios I",
+				"FECHA": null,
+				"MSLNK_OLD": 10348,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": null,
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281746.61797409295,
+							4825096.016800893
+						],
+						[
+							281760.5982480383,
+							4825102.346937991
+						],
+						[
+							281761.2782509446,
+							4825100.846925106
+						],
+						[
+							281762.338271718,
+							4825101.326935496
+						],
+						[
+							281767.32829171896,
+							4825090.0968385795
+						],
+						[
+							281766.2682710052,
+							4825089.62682829
+						],
+						[
+							281766.9182736802,
+							4825088.176815806
+						],
+						[
+							281752.90799975634,
+							4825081.926679368
+						],
+						[
+							281746.61797409295,
+							4825096.016800893
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "",
+				"ANIO_REFORMA": "2005",
+				"ANIO_REHABILITACION": "2005",
+				"CODIGO": "EFIGA06",
+				"DENOMINACION": "Quinta La Vega",
+				"FECHA": null,
+				"MSLNK_OLD": 10181,
+				"OBSERVACIONES": "Gas de 30Kw de potencia",
+				"PLANTAS": 4,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": "1",
+				"SERV_CALEFACCION": "1",
+				"SERV_CLIMATIZACION": "1",
+				"SERV_CONTRAINCENDIOS": "Extintores",
+				"SUPERFICIE": 848,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Teja",
+				"TIPO_ESTRUCTURA": "Hormig\u00f3n armado y muros de carga",
+				"TIPO_FACHADA": "Ladrillo, enfoscado, enlucido y pintado",
+				"UBICACION": "Jove",
+				"VALOR_CONTABLE": 917000.0,
+				"VALOR_EQ_INFORMATICO": 0.0,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": 81500.26,
+				"VALOR_NUEVO": 1030000.0,
+				"VALOR_REAL": 1030000.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282255.88280753134,
+							4824927.589071262
+						],
+						[
+							282259.4112585521,
+							4824933.641154962
+						],
+						[
+							282261.9431654668,
+							4824932.154283776
+						],
+						[
+							282258.4147144413,
+							4824926.102200079
+						],
+						[
+							282255.88280753134,
+							4824927.589071262
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "2004",
+				"ANIO_REFORMA": "No",
+				"ANIO_REHABILITACION": "No",
+				"CODIGO": "EMO08",
+				"DENOMINACION": "Control A1 y Marquesina",
+				"FECHA": null,
+				"MSLNK_OLD": 10308,
+				"OBSERVACIONES": "",
+				"PLANTAS": 1,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": "0",
+				"SERV_CALEFACCION": "0",
+				"SERV_CLIMATIZACION": "1",
+				"SERV_CONTRAINCENDIOS": "Extintores",
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Cinc",
+				"TIPO_ESTRUCTURA": "Met\u00e1lica",
+				"TIPO_FACHADA": "Chapa",
+				"UBICACION": "Muelle de la Osa",
+				"VALOR_CONTABLE": 438812.0,
+				"VALOR_EQ_INFORMATICO": 30000.0,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": 0.0,
+				"VALOR_NUEVO": 450000.0,
+				"VALOR_REAL": 450000.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							283333.36776879075,
+							4827464.925104966
+						],
+						[
+							283338.5063713145,
+							4827466.583337369
+						],
+						[
+							283341.1781704807,
+							4827458.303713672
+						],
+						[
+							283344.9845427179,
+							4827459.532033971
+						],
+						[
+							283346.24366645335,
+							4827455.630142353
+						],
+						[
+							283337.29869170906,
+							4827452.743589635
+						],
+						[
+							283333.36776879075,
+							4827464.925104966
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EML01",
+				"DENOMINACION": "C.T. S/N",
+				"FECHA": null,
+				"MSLNK_OLD": 10102,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Marcelino le\u00f3n",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281900.59819788934,
+							4826520.471055393
+						],
+						[
+							281929.74865982536,
+							4826510.591104193
+						],
+						[
+							281926.0485441256,
+							4826499.601004493
+						],
+						[
+							281931.33862795355,
+							4826497.811013408
+						],
+						[
+							281929.42856842757,
+							4826492.180962272
+						],
+						[
+							281935.59866632224,
+							4826490.120972901
+						],
+						[
+							281927.5984187484,
+							4826466.910761518
+						],
+						[
+							281904.3780499053,
+							4826474.560720615
+						],
+						[
+							281906.30810924293,
+							4826480.080771055
+						],
+						[
+							281900.2280129623,
+							4826482.150760884
+						],
+						[
+							281902.1480729604,
+							4826487.85081266
+						],
+						[
+							281891.1278983831,
+							4826491.590794172
+						],
+						[
+							281900.59819788934,
+							4826520.471055393
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EE206",
+				"DENOMINACION": "Capitan\u00eda Mar\u00edtima",
+				"FECHA": null,
+				"MSLNK_OLD": 10123,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Espig\u00f3n II",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281925.21586404083,
+							4825928.75663234
+						],
+						[
+							281930.70597564935,
+							4825931.536687281
+						],
+						[
+							281944.07605312346,
+							4825904.966462479
+						],
+						[
+							281938.3359369874,
+							4825902.146405926
+						],
+						[
+							281925.21586404083,
+							4825928.75663234
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "1980",
+				"ANIO_REFORMA": "No",
+				"ANIO_REHABILITACION": "No",
+				"CODIGO": "EMR11",
+				"DENOMINACION": "Estaci\u00f3n FFCC Sur",
+				"FECHA": null,
+				"MSLNK_OLD": 10175,
+				"OBSERVACIONES": "",
+				"PLANTAS": 1,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": "Extintores",
+				"SUPERFICIE": 180,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Chapa",
+				"TIPO_ESTRUCTURA": "Met\u00e1lica",
+				"TIPO_FACHADA": "Ladrillo, enfoscado, enlucido y pintado",
+				"UBICACION": "Rendiello y 6\u00aa Alineaci\u00f3n",
+				"VALOR_CONTABLE": 6120.0,
+				"VALOR_EQ_INFORMATICO": 10000.0,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": 0.0,
+				"VALOR_NUEVO": 109000.0,
+				"VALOR_REAL": 60000.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							283757.8832583677,
+							4824543.413888082
+						],
+						[
+							283757.883258369,
+							4824543.413888083
+						],
+						[
+							283757.8832583666,
+							4824543.413888083
+						],
+						[
+							283757.8832583677,
+							4824543.413888082
+						]
+					],
+					[
+						[
+							283707.90782585624,
+							4824448.153074374
+						],
+						[
+							283725.57217749837,
+							4824450.222658469
+						],
+						[
+							283723.2911165667,
+							4824469.694078245
+						],
+						[
+							283720.6459906125,
+							4824469.485286522
+						],
+						[
+							283719.93065749883,
+							4824476.032647102
+						],
+						[
+							283734.57435988664,
+							4824476.093868761
+						],
+						[
+							283734.6546260786,
+							4824473.344160332
+						],
+						[
+							283738.6591987157,
+							4824473.360901695
+						],
+						[
+							283738.54336863995,
+							4824476.368790078
+						],
+						[
+							283738.60562962055,
+							4824478.879316507
+						],
+						[
+							283738.7093830371,
+							4824480.76739877
+						],
+						[
+							283738.9583786702,
+							4824483.360919118
+						],
+						[
+							283739.39411232236,
+							4824486.556137109
+						],
+						[
+							283739.8713389468,
+							4824489.211903529
+						],
+						[
+							283740.3070635867,
+							4824491.0169955585
+						],
+						[
+							283741.1992589498,
+							4824494.295209391
+						],
+						[
+							283741.94621034624,
+							4824496.598259201
+						],
+						[
+							283742.81765141967,
+							4824498.942806196
+						],
+						[
+							283743.52310271264,
+							4824500.685655699
+						],
+						[
+							283744.3115469456,
+							4824502.42850579
+						],
+						[
+							283744.9962479877,
+							4824503.860132916
+						],
+						[
+							283746.3448998141,
+							4824506.412164793
+						],
+						[
+							283747.17483850004,
+							4824507.843792952
+						],
+						[
+							283748.3989971519,
+							4824509.81487578
+						],
+						[
+							283749.55955654144,
+							4824511.533659256
+						],
+						[
+							283752.44606802467,
+							4824509.518446297
+						],
+						[
+							283757.7663516069,
+							4824517.08613493
+						],
+						[
+							283754.9306175828,
+							4824520.146091538
+						],
+						[
+							283747.13338323595,
+							4824528.7041912
+						],
+						[
+							283750.04772344354,
+							4824531.323739944
+						],
+						[
+							283765.0958458614,
+							4824515.41245153
+						],
+						[
+							283766.149350934,
+							4824516.408798568
+						],
+						[
+							283768.1861745548,
+							4824514.255141981
+						],
+						[
+							283776.2516844654,
+							4824521.883056769
+						],
+						[
+							283774.2147816658,
+							4824524.03663848
+						],
+						[
+							283775.2676189661,
+							4824525.032353976
+						],
+						[
+							283757.8832583677,
+							4824543.413888082
+						],
+						[
+							283756.92574767827,
+							4824542.508657086
+						],
+						[
+							283753.5889560413,
+							4824546.070895119
+						],
+						[
+							283754.4985202861,
+							4824547.184152932
+						],
+						[
+							283749.7246964169,
+							4824551.295547548
+						],
+						[
+							283748.73211803916,
+							4824550.237309599
+						],
+						[
+							283743.2810235286,
+							4824554.941421512
+						],
+						[
+							283737.7441897035,
+							4824548.690735198
+						],
+						[
+							283736.99166677,
+							4824549.349309969
+						],
+						[
+							283734.22559823754,
+							4824546.188689223
+						],
+						[
+							283738.1303868032,
+							4824542.771391065
+						],
+						[
+							283734.39122112514,
+							4824538.555101595
+						],
+						[
+							283713.60678502085,
+							4824560.894933476
+						],
+						[
+							283710.23179561377,
+							4824557.769175124
+						],
+						[
+							283725.10176856996,
+							4824541.786413098
+						],
+						[
+							283723.6374672508,
+							4824540.424071455
+						],
+						[
+							283733.35981480835,
+							4824529.974155543
+						],
+						[
+							283731.9035691595,
+							4824528.619308649
+						],
+						[
+							283719.6527364206,
+							4824535.777922859
+						],
+						[
+							283714.2561599064,
+							4824526.542756629
+						],
+						[
+							283715.9762045598,
+							4824525.529358764
+						],
+						[
+							283710.0689796233,
+							4824515.422694542
+						],
+						[
+							283711.1481748486,
+							4824514.7919327
+						],
+						[
+							283707.59554679156,
+							4824508.713727451
+						],
+						[
+							283712.7529958797,
+							4824505.699332285
+						],
+						[
+							283711.9962358213,
+							4824503.388119225
+						],
+						[
+							283710.90136642696,
+							4824499.469738746
+						],
+						[
+							283710.0474868512,
+							4824495.821995697
+						],
+						[
+							283709.3478013253,
+							4824492.413793562
+						],
+						[
+							283708.74145204783,
+							4824488.279789584
+						],
+						[
+							283708.3004634452,
+							4824484.145786779
+						],
+						[
+							283708.1075203228,
+							4824480.700785684
+						],
+						[
+							283708.02481943846,
+							4824477.531385353
+						],
+						[
+							283708.0523588276,
+							4824474.334425807
+						],
+						[
+							283708.2176959181,
+							4824470.696507278
+						],
+						[
+							283708.4349073267,
+							4824467.917129498
+						],
+						[
+							283705.62676492456,
+							4824467.624494181
+						],
+						[
+							283707.90782585624,
+							4824448.153074374
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EPL11",
+				"DENOMINACION": "Acuario - Ayuntamiento de Gij\u00f3n",
+				"FECHA": null,
+				"MSLNK_OLD": 10304,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Puerto Local",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281706.8581624842,
+							4827242.155796173
+						],
+						[
+							281719.74837925675,
+							4827240.175832803
+						],
+						[
+							281719.9183874226,
+							4827241.295842128
+						],
+						[
+							281732.7586033583,
+							4827239.325878646
+						],
+						[
+							281728.29839156865,
+							4827210.475638203
+						],
+						[
+							281715.5081765604,
+							4827212.445601769
+						],
+						[
+							281717.4782705307,
+							4827225.28570878
+						],
+						[
+							281710.3281502652,
+							4827226.37568836
+						],
+						[
+							281709.6481177974,
+							4827221.935651353
+						],
+						[
+							281703.8980210972,
+							4827222.815634949
+						],
+						[
+							281706.8581624842,
+							4827242.155796173
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "1906",
+				"ANIO_REFORMA": "No",
+				"ANIO_REHABILITACION": "2004",
+				"CODIGO": "EAR05",
+				"DENOMINACION": "Centro de Recepci\u00f3n",
+				"FECHA": null,
+				"MSLNK_OLD": 10163,
+				"OBSERVACIONES": "",
+				"PLANTAS": 3,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": "0",
+				"SERV_CALEFACCION": "0",
+				"SERV_CLIMATIZACION": "1",
+				"SERV_CONTRAINCENDIOS": "Alarmas y Extintores",
+				"SUPERFICIE": 997,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Teja plana",
+				"TIPO_ESTRUCTURA": "Hormig\u00f3n armado y met\u00e1lica",
+				"TIPO_FACHADA": "Ladrillo macizo visto",
+				"UBICACION": "Alineaci\u00f3n de Ribera",
+				"VALOR_CONTABLE": 986644.0,
+				"VALOR_EQ_INFORMATICO": 0.0,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": 300000.0,
+				"VALOR_NUEVO": 1196000.0,
+				"VALOR_REAL": 1196000.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281940.9431029199,
+							4826440.71607082
+						],
+						[
+							281974.75972051837,
+							4826458.050755217
+						],
+						[
+							281983.8831686113,
+							4826440.252791491
+						],
+						[
+							281966.08494883275,
+							4826431.129273365
+						],
+						[
+							281989.7307686065,
+							4826385.001160647
+						],
+						[
+							281959.3698158882,
+							4826369.441061357
+						],
+						[
+							281950.3151193474,
+							4826387.111608856
+						],
+						[
+							281964.86395307997,
+							4826394.706114498
+						],
+						[
+							281940.9431029199,
+							4826440.71607082
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "2004",
+				"ANIO_REFORMA": "No",
+				"ANIO_REHABILITACION": "No",
+				"CODIGO": "EE205",
+				"DENOMINACION": "Servicios M\u00faltiples",
+				"FECHA": null,
+				"MSLNK_OLD": 10122,
+				"OBSERVACIONES": "3 para calefacci\u00f3n de 130kw cada una, Gas\u00f3leo, Viessmann, Vitoplex 100",
+				"PLANTAS": 4,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": "1",
+				"SERV_CALEFACCION": "1",
+				"SERV_CLIMATIZACION": "1",
+				"SERV_CONTRAINCENDIOS": "Alarmas y Equipos de extinci\u00f3n",
+				"SUPERFICIE": 4420,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Plana de grava",
+				"TIPO_ESTRUCTURA": "Hormig\u00f3n armadoy y Met\u00e1lica",
+				"TIPO_FACHADA": "Muro Cortina de Aluminio-Vidrio",
+				"UBICACION": "Espig\u00f3n II",
+				"VALOR_CONTABLE": 6522793.0,
+				"VALOR_EQ_INFORMATICO": 500000.0,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": 465000.0,
+				"VALOR_NUEVO": 6950000.0,
+				"VALOR_REAL": 6950000.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282140.44358474493,
+							4825566.299690528
+						],
+						[
+							282156.67411007406,
+							4825574.478100298
+						],
+						[
+							282157.26135153056,
+							4825573.312682712
+						],
+						[
+							282181.1951212025,
+							4825585.372684879
+						],
+						[
+							282184.44712041615,
+							4825578.892874098
+						],
+						[
+							282156.67096772674,
+							4825564.896731028
+						],
+						[
+							282158.1581964421,
+							4825561.945232153
+						],
+						[
+							282145.78050806286,
+							4825555.708230781
+						],
+						[
+							282140.44358474493,
+							4825566.299690528
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMR20",
+				"DENOMINACION": "Petr\u00f3leos Asturianos",
+				"FECHA": null,
+				"MSLNK_OLD": 10333,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Rendiello y 6\u00aa Alineaci\u00f3n",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							284128.34170475247,
+							4824475.594389522
+						],
+						[
+							284128.41170977114,
+							4824476.2143962765
+						],
+						[
+							284141.5519211197,
+							4824479.854526501
+						],
+						[
+							284142.53191425564,
+							4824476.634500994
+						],
+						[
+							284140.7618854642,
+							4824476.094482951
+						],
+						[
+							284140.1318234468,
+							4824467.914395948
+						],
+						[
+							284140.8418163538,
+							4824465.254374168
+						],
+						[
+							284138.1167699623,
+							4824464.104343174
+						],
+						[
+							284136.1017354655,
+							4824463.224319954
+						],
+						[
+							284136.0017359161,
+							4824463.514322166
+						],
+						[
+							284134.2617481899,
+							4824469.24436759
+						],
+						[
+							284132.8417253709,
+							4824468.85435355
+						],
+						[
+							284130.7617246199,
+							4824473.324383846
+						],
+						[
+							284129.1616987753,
+							4824472.864367814
+						],
+						[
+							284128.34170475247,
+							4824475.594389522
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EPL12",
+				"DENOMINACION": "Cafeter\u00eda Banus",
+				"FECHA": "2007/01/10 00:00:00",
+				"MSLNK_OLD": 10347,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": null,
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281908.96101397515,
+							4827093.775474443
+						],
+						[
+							281920.3012028241,
+							4827091.695504723
+						],
+						[
+							281914.78096621035,
+							4827061.645252419
+						],
+						[
+							281903.44077740907,
+							4827063.725222028
+						],
+						[
+							281908.96101397515,
+							4827093.775474443
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "1926",
+				"ANIO_REFORMA": "2005",
+				"ANIO_REHABILITACION": "1993",
+				"CODIGO": "EAR14",
+				"DENOMINACION": "La Sirena",
+				"FECHA": null,
+				"MSLNK_OLD": 10113,
+				"OBSERVACIONES": "Para calefacci\u00f3n Gas\u00f3leo, Rosa Go 50GT, 50 kw",
+				"PLANTAS": 3,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": "1",
+				"SERV_CALEFACCION": "1",
+				"SERV_CLIMATIZACION": "1",
+				"SERV_CONTRAINCENDIOS": "Extintores",
+				"SUPERFICIE": 950,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Teja cer\u00e1mica",
+				"TIPO_ESTRUCTURA": "Hormig\u00f3n armado",
+				"TIPO_FACHADA": "Ladrillo enfoscado y pintado",
+				"UBICACION": "Alineaciones de Ribera",
+				"VALOR_CONTABLE": 446858.0,
+				"VALOR_EQ_INFORMATICO": 0.0,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": 0.0,
+				"VALOR_NUEVO": 1140000.0,
+				"VALOR_REAL": 912000.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281952.2793498063,
+							4826574.34168655
+						],
+						[
+							281952.73939309124,
+							4826581.901746173
+						],
+						[
+							281964.31959168194,
+							4826581.191789868
+						],
+						[
+							281963.85954838514,
+							4826573.631730275
+						],
+						[
+							281952.2793498063,
+							4826574.34168655
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EE210",
+				"DENOMINACION": "Ditecpesa",
+				"FECHA": null,
+				"MSLNK_OLD": 10337,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "2\u00aa Alineaci\u00f3n",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282234.63768145564,
+							4825332.591706522
+						],
+						[
+							282238.67768290045,
+							4825321.281605816
+						],
+						[
+							282236.0776328707,
+							4825320.351583443
+						],
+						[
+							282232.03763141634,
+							4825331.661684163
+						],
+						[
+							282234.63768145564,
+							4825332.591706522
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "1994",
+				"ANIO_REFORMA": "1994",
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMO07",
+				"DENOMINACION": "Centro de Transformaci\u00f3n N12",
+				"FECHA": null,
+				"MSLNK_OLD": 10212,
+				"OBSERVACIONES": "Potencia Transformador: 800 Kva",
+				"PLANTAS": null,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": "Extintores",
+				"SUPERFICIE": 30,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Hormig\u00f3n",
+				"TIPO_ESTRUCTURA": "Prefabricado de Hormig\u00f3n",
+				"TIPO_FACHADA": "Hormig\u00f3n",
+				"UBICACION": "Rotonda Entrada",
+				"VALOR_CONTABLE": 18461.89,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 51700.0,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": 13600.0,
+				"VALOR_REAL": 12600.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							284236.36311880354,
+							4824455.624956925
+						],
+						[
+							284249.13332433463,
+							4824459.185083697
+						],
+						[
+							284247.95333488705,
+							4824463.415117929
+						],
+						[
+							284253.673426919,
+							4824465.005174661
+						],
+						[
+							284254.84341615916,
+							4824460.76514026
+						],
+						[
+							284259.1134847498,
+							4824461.935182443
+						],
+						[
+							284260.6634701538,
+							4824456.265136335
+						],
+						[
+							284237.88310429576,
+							4824450.034911399
+						],
+						[
+							284236.36311880354,
+							4824455.624956925
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EPL13",
+				"DENOMINACION": "La Bodeguita",
+				"FECHA": "2008/04/23 00:00:00",
+				"MSLNK_OLD": 10350,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": null,
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281909.5984325147,
+							4827095.996515875
+						],
+						[
+							281909.94879238843,
+							4827098.188714571
+						],
+						[
+							281912.56562871695,
+							4827097.770517685
+						],
+						[
+							281912.2152688408,
+							4827095.5783189945
+						],
+						[
+							281909.5984325147,
+							4827095.996515875
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": null,
+				"DENOMINACION": null,
+				"FECHA": null,
+				"MSLNK_OLD": null,
+				"OBSERVACIONES": null,
+				"PLANTAS": 0,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": 0,
+				"TABLE_OLD": null,
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": null,
+				"VALOR_CONTABLE": 0.0,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 0.0,
+				"VALOR_MOBILIARIO": 0.0,
+				"VALOR_NUEVO": 0.0,
+				"VALOR_REAL": 0.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282086.22368974925,
+							4826659.343603387
+						],
+						[
+							282088.5455073142,
+							4826660.513825762
+						],
+						[
+							282091.4035281658,
+							4826654.843314221
+						],
+						[
+							282089.0817106009,
+							4826653.673091838
+						],
+						[
+							282086.22368974925,
+							4826659.343603387
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EE212",
+				"DENOMINACION": "Transformador C.T. N \u00ba 4",
+				"FECHA": null,
+				"MSLNK_OLD": 10353,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Espig\u00f3n II",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282753.3684247184,
+							4825709.027205825
+						],
+						[
+							282754.82287326816,
+							4825711.038905983
+						],
+						[
+							282758.22170082806,
+							4825708.581623108
+						],
+						[
+							282756.76725227595,
+							4825706.569922948
+						],
+						[
+							282753.3684247184,
+							4825709.027205825
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMO18",
+				"DENOMINACION": "TCG",
+				"FECHA": null,
+				"MSLNK_OLD": 10362,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Muelles Osa y Moliner",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							284374.07896690915,
+							4824791.7738510715
+						],
+						[
+							284374.078966918,
+							4824791.773851075
+						],
+						[
+							284374.07896690845,
+							4824791.773851073
+						],
+						[
+							284374.07896690915,
+							4824791.7738510715
+						]
+					],
+					[
+						[
+							284385.6991664958,
+							4824779.057436433
+						],
+						[
+							284385.6991664845,
+							4824779.0574364355
+						],
+						[
+							284385.69916648575,
+							4824779.0574364355
+						],
+						[
+							284385.6991664958,
+							4824779.057436433
+						]
+					],
+					[
+						[
+							284398.86734134675,
+							4824687.0627089
+						],
+						[
+							284399.7186067987,
+							4824690.708835156
+						],
+						[
+							284403.6017570591,
+							4824690.16076868
+						],
+						[
+							284406.80509966036,
+							4824709.352072838
+						],
+						[
+							284408.4542718685,
+							4824728.738844752
+						],
+						[
+							284408.5385847187,
+							4824748.195430756
+						],
+						[
+							284404.5581791568,
+							4824748.087261441
+						],
+						[
+							284404.24009152415,
+							4824752.856404181
+						],
+						[
+							284408.437802825,
+							4824753.525501681
+						],
+						[
+							284407.6461276889,
+							4824758.7213784745
+						],
+						[
+							284403.04557584046,
+							4824758.084482445
+						],
+						[
+							284403.04557584046,
+							4824758.0844824435
+						],
+						[
+							284402.42853342055,
+							4824762.542014814
+						],
+						[
+							284401.7695729391,
+							4824764.4774101805
+						],
+						[
+							284400.9499870512,
+							4824766.350444638
+						],
+						[
+							284399.97559693636,
+							4824768.147814796
+						],
+						[
+							284398.8533232836,
+							4824769.856754681
+						],
+						[
+							284397.5911371376,
+							4824771.4651264
+						],
+						[
+							284396.19800328335,
+							4824772.961506356
+						],
+						[
+							284394.68381657306,
+							4824774.3352663815
+						],
+						[
+							284393.05933164735,
+							4824775.576649229
+						],
+						[
+							284391.3360865492,
+							4824776.676837872
+						],
+						[
+							284389.52632077434,
+							4824777.628018125
+						],
+						[
+							284387.6428883388,
+							4824778.423434149
+						],
+						[
+							284385.69916648575,
+							4824779.0574364355
+						],
+						[
+							284385.69916648406,
+							4824779.0574364355
+						],
+						[
+							284382.9301063516,
+							4824779.7015906265
+						],
+						[
+							284380.1127955868,
+							4824780.082917645
+						],
+						[
+							284377.2721237493,
+							4824780.198048655
+						],
+						[
+							284374.43318676914,
+							4824780.045966531
+						],
+						[
+							284371.62106524943,
+							4824779.628014844
+						],
+						[
+							284371.6210652352,
+							4824779.628014844
+						],
+						[
+							284370.5982334018,
+							4824784.131814576
+						],
+						[
+							284372.46075745526,
+							4824784.434295114
+						],
+						[
+							284374.3356495905,
+							4824784.647052563
+						],
+						[
+							284376.21859007597,
+							4824784.769596729
+						],
+						[
+							284376.2185900736,
+							4824784.769596729
+						],
+						[
+							284375.67568632605,
+							4824787.364401591
+						],
+						[
+							284375.1446201682,
+							4824789.90230825
+						],
+						[
+							284374.8748617816,
+							4824789.845857305
+						],
+						[
+							284374.07896690915,
+							4824791.7738510715
+						],
+						[
+							284351.8024789712,
+							4824782.917615634
+						],
+						[
+							284329.098217986,
+							4824775.224053134
+						],
+						[
+							284306.02682226896,
+							4824768.713711465
+						],
+						[
+							284306.0268222618,
+							4824768.713711462
+						],
+						[
+							284306.0227316189,
+							4824765.383975892
+						],
+						[
+							284317.7075080824,
+							4824761.079732872
+						],
+						[
+							284316.65133443836,
+							4824758.28377374
+						],
+						[
+							284316.65133444784,
+							4824758.283773732
+						],
+						[
+							284328.58884573187,
+							4824752.708310217
+						],
+						[
+							284340.0353743934,
+							4824746.183999285
+						],
+						[
+							284350.9156593319,
+							4824738.753738381
+						],
+						[
+							284361.15816250624,
+							4824730.466381585
+						],
+						[
+							284370.69553929806,
+							4824721.376418398
+						],
+						[
+							284370.6955392885,
+							4824721.376418404
+						],
+						[
+							284378.3549909258,
+							4824712.861810255
+						],
+						[
+							284387.1513310051,
+							4824701.570794787
+						],
+						[
+							284398.86734134675,
+							4824687.0627089
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EPL10",
+				"DENOMINACION": "Centro de Talasoterapia",
+				"FECHA": null,
+				"MSLNK_OLD": 10346,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Puerto Local",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281890.62022625445,
+							4826993.524632289
+						],
+						[
+							281900.9704311514,
+							4826998.644713962
+						],
+						[
+							281902.9404470825,
+							4826994.664691598
+						],
+						[
+							281892.59024218796,
+							4826989.544609916
+						],
+						[
+							281890.62022625445,
+							4826993.524632289
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "1992",
+				"ANIO_REFORMA": "1992",
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EE103",
+				"DENOMINACION": "Centro de Transformaci\u00f3n N03",
+				"FECHA": null,
+				"MSLNK_OLD": 10177,
+				"OBSERVACIONES": "Potencia Transformador: 2000 Kva",
+				"PLANTAS": null,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": "Extintores y Extinci\u00f3n autom\u00e1tica CO2",
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Cobre",
+				"TIPO_ESTRUCTURA": "Hormigonado",
+				"TIPO_FACHADA": "Bloque de hormig\u00f3n",
+				"UBICACION": "Espig\u00f3n I",
+				"VALOR_CONTABLE": 5216.74,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 71800.0,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": 11280.0,
+				"VALOR_REAL": 7900.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281927.29579647066,
+							4826318.653480239
+						],
+						[
+							281930.27072000026,
+							4826320.140936882
+						],
+						[
+							281928.77701453207,
+							4826323.128340039
+						],
+						[
+							281932.9361830306,
+							4826325.207917118
+						],
+						[
+							281937.2921293974,
+							4826327.38588279
+						],
+						[
+							281938.7858348632,
+							4826324.398479643
+						],
+						[
+							281945.2660877252,
+							4826327.63859489
+						],
+						[
+							281967.8281955695,
+							4826282.514496866
+						],
+						[
+							281909.595247159,
+							4826253.408121867
+						],
+						[
+							281904.9535797858,
+							4826262.691432409
+						],
+						[
+							281951.4337019992,
+							4826285.921414311
+						],
+						[
+							281947.13147251605,
+							4826294.52585084
+						],
+						[
+							281940.91400757554,
+							4826291.417129021
+						],
+						[
+							281927.29579647066,
+							4826318.653480239
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "ETP04",
+				"DENOMINACION": "Centro Control - Aduana - Guardia Civil y Cofrad\u00edas",
+				"FECHA": null,
+				"MSLNK_OLD": 10162,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Talleres",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282770.0224320674,
+							4825696.2137386035
+						],
+						[
+							282771.5922980595,
+							4825698.117423687
+						],
+						[
+							282774.7310125637,
+							4825695.529142375
+						],
+						[
+							282773.1611465716,
+							4825693.6254572915
+						],
+						[
+							282770.0224320674,
+							4825696.2137386035
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMO16",
+				"DENOMINACION": "Aduana",
+				"FECHA": null,
+				"MSLNK_OLD": 10363,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Muelles Osa y Moliner",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							284488.60891402245,
+							4824793.790153091
+						],
+						[
+							284516.8593222904,
+							4824794.520360651
+						],
+						[
+							284517.0192679286,
+							4824785.7802739125
+						],
+						[
+							284512.399201417,
+							4824785.70024036
+						],
+						[
+							284512.4691777873,
+							4824781.9002026515
+						],
+						[
+							284508.83912554506,
+							4824781.840176315
+						],
+						[
+							284508.89910391334,
+							4824778.37014185
+						],
+						[
+							284497.46893934486,
+							4824778.170058813
+						],
+						[
+							284497.4089609766,
+							4824781.640093284
+						],
+						[
+							284493.69890752796,
+							4824781.570066281
+						],
+						[
+							284493.61893107893,
+							4824785.380104027
+						],
+						[
+							284488.81886179926,
+							4824785.270068896
+						],
+						[
+							284488.60891402245,
+							4824793.790153091
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EPL08",
+				"DENOMINACION": "Escuela de Vela - Ayuntamiento de Gij\u00f3n",
+				"FECHA": "2007/01/08 00:00:00",
+				"MSLNK_OLD": 10303,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Puerto Local",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282392.4796735907,
+							4827134.897749834
+						],
+						[
+							282399.9298229289,
+							4827138.887809897
+						],
+						[
+							282404.95986626385,
+							4827129.417759366
+						],
+						[
+							282397.44971687556,
+							4827125.637700615
+						],
+						[
+							282392.4796735907,
+							4827134.897749834
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "1994",
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMOL10",
+				"DENOMINACION": "Centro de Transformaci\u00f3n N01",
+				"FECHA": null,
+				"MSLNK_OLD": 10146,
+				"OBSERVACIONES": "Potencia Transformador: 1600 Kva",
+				"PLANTAS": 1,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": "Extintores y Extinci\u00f3n autom\u00e1tica CO2",
+				"SUPERFICIE": 100,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Teja",
+				"TIPO_ESTRUCTURA": "Hormig\u00f3n armado",
+				"TIPO_FACHADA": "Ladrillo cara vista",
+				"UBICACION": "Muelle Olano",
+				"VALOR_CONTABLE": 10921.35,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 62000.0,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": 60000.0,
+				"VALOR_REAL": 42000.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281999.81878181937,
+							4826275.349612813
+						],
+						[
+							282004.00886436703,
+							4826277.419646749
+						],
+						[
+							282008.3488987732,
+							4826268.629598737
+						],
+						[
+							282004.1588162279,
+							4826266.559564791
+						],
+						[
+							281999.81878181937,
+							4826275.349612813
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "2002",
+				"ANIO_REFORMA": "2002",
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMR10",
+				"DENOMINACION": "Centro de Transformaci\u00f3n N07",
+				"FECHA": null,
+				"MSLNK_OLD": 10182,
+				"OBSERVACIONES": "Potencia Transformador: 1250 Kva",
+				"PLANTAS": null,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": "Extintores y Extinci\u00f3n autom\u00e1tica CO2",
+				"SUPERFICIE": 43,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Teja",
+				"TIPO_ESTRUCTURA": "Hormig\u00f3n armado",
+				"TIPO_FACHADA": "Ladrillo cara vista",
+				"UBICACION": "6\u00aa Alineaci\u00f3n",
+				"VALOR_CONTABLE": 55797.87,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 60500.0,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": 10500.0,
+				"VALOR_REAL": 7200.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282804.38980837824,
+							4825713.218391643
+						],
+						[
+							282808.16990359785,
+							4825717.9984588055
+						],
+						[
+							282811.91994993686,
+							4825715.028445306
+						],
+						[
+							282808.13985471247,
+							4825710.248378148
+						],
+						[
+							282804.38980837824,
+							4825713.218391643
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMO15",
+				"DENOMINACION": "Antiguas Oficinas Teco",
+				"FECHA": null,
+				"MSLNK_OLD": 10361,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Muelles Osa y Moliner",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							284533.0088888121,
+							4824692.039444907
+						],
+						[
+							284536.38894545555,
+							4824693.32948186
+						],
+						[
+							284533.71895274404,
+							4824700.339533381
+						],
+						[
+							284538.5790342212,
+							4824702.199586566
+						],
+						[
+							284541.2490269971,
+							4824695.199535145
+						],
+						[
+							284544.76908609155,
+							4824696.559573794
+						],
+						[
+							284546.619081347,
+							4824691.749538572
+						],
+						[
+							284543.08902204275,
+							4824690.37949975
+						],
+						[
+							284545.7990155196,
+							4824683.399448824
+						],
+						[
+							284540.93893404485,
+							4824681.539395633
+						],
+						[
+							284538.2489409185,
+							4824688.529446807
+						],
+						[
+							284534.85888406757,
+							4824687.229409681
+						],
+						[
+							284533.0088888121,
+							4824692.039444907
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EPL25",
+				"DENOMINACION": "InfoGijon - Ayuntamiento de Gij\u00f3n",
+				"FECHA": null,
+				"MSLNK_OLD": 10178,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Puerto Local",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282403.9097508836,
+							4827108.897601473
+						],
+						[
+							282412.949932015,
+							4827113.727674322
+						],
+						[
+							282421.45000594854,
+							4827097.887590315
+						],
+						[
+							282422.1400197792,
+							4827098.257595887
+						],
+						[
+							282424.2200377059,
+							4827094.34757509
+						],
+						[
+							282414.4798425388,
+							4827089.137496514
+						],
+						[
+							282403.9097508836,
+							4827108.897601473
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMOL03",
+				"DENOMINACION": "C.T. N \u00ba 4 (EBHI)",
+				"FECHA": null,
+				"MSLNK_OLD": 10139,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Muelle Olano",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282250.76281327964,
+							4826273.111959315
+						],
+						[
+							282260.423326757,
+							4826277.980763395
+						],
+						[
+							282268.1227279401,
+							4826262.672583397
+						],
+						[
+							282257.4722157264,
+							4826257.44285909
+						],
+						[
+							282255.6039349961,
+							4826261.427154951
+						],
+						[
+							282256.126949575,
+							4826261.672401168
+						],
+						[
+							282250.76281327964,
+							4826273.111959315
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMR19",
+				"DENOMINACION": "Escuela de buceo",
+				"FECHA": null,
+				"MSLNK_OLD": 10345,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": null,
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282812.1901109195,
+							4825740.068706673
+						],
+						[
+							282821.70035051106,
+							4825752.068875198
+						],
+						[
+							282829.01044091466,
+							4825746.27884881
+						],
+						[
+							282819.50020130636,
+							4825734.2786802985
+						],
+						[
+							282812.1901109195,
+							4825740.068706673
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "2007",
+				"ANIO_REFORMA": "No",
+				"ANIO_REHABILITACION": "No",
+				"CODIGO": "EMO17",
+				"DENOMINACION": "Centro Inspecci\u00f3n Aduanero de Contenedores",
+				"FECHA": null,
+				"MSLNK_OLD": 10352,
+				"OBSERVACIONES": "",
+				"PLANTAS": 1,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": "0",
+				"SERV_CALEFACCION": "0",
+				"SERV_CLIMATIZACION": "0",
+				"SERV_CONTRAINCENDIOS": "Extintores",
+				"SUPERFICIE": 105,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Chapa",
+				"TIPO_ESTRUCTURA": "Met\u00e1lica",
+				"TIPO_FACHADA": "Chapa",
+				"UBICACION": "Muelles Osa y Moliner",
+				"VALOR_CONTABLE": 100000.0,
+				"VALOR_EQ_INFORMATICO": 0.0,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": 0.0,
+				"VALOR_NUEVO": 100000.0,
+				"VALOR_REAL": 100000.0
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							284548.0889232254,
+							4824664.109271183
+						],
+						[
+							284551.6589830327,
+							4824665.469310193
+						],
+						[
+							284550.3189866376,
+							4824668.979335962
+						],
+						[
+							284555.0890665698,
+							4824670.799388115
+						],
+						[
+							284556.66429418296,
+							4824666.65069006
+						],
+						[
+							284558.4218669795,
+							4824667.318026454
+						],
+						[
+							284559.7565397683,
+							4824663.802880861
+						],
+						[
+							284557.99896697135,
+							4824663.135544466
+						],
+						[
+							284563.57904294494,
+							4824648.439223656
+						],
+						[
+							284558.838963573,
+							4824646.6391719105
+						],
+						[
+							284553.4889783287,
+							4824660.709275342
+						],
+						[
+							284549.90891837596,
+							4824659.349236255
+						],
+						[
+							284548.0889232254,
+							4824664.109271183
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EPL12",
+				"DENOMINACION": "Cafeter\u00eda Banus",
+				"FECHA": null,
+				"MSLNK_OLD": 10347,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": null,
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282489.8674156642,
+							4827006.369317045
+						],
+						[
+							282488.8012779522,
+							4827008.438756998
+						],
+						[
+							282479.7857248783,
+							4827003.66626611
+						],
+						[
+							282472.2743770361,
+							4827018.246261783
+						],
+						[
+							282483.94156338216,
+							4827024.42242641
+						],
+						[
+							282491.33840895654,
+							4827010.064686809
+						],
+						[
+							282493.59229722264,
+							4827011.257809527
+						],
+						[
+							282494.8250133991,
+							4827008.936269725
+						],
+						[
+							282489.8674156642,
+							4827006.369317045
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMOL05",
+				"DENOMINACION": "Bat Proyect EBHI",
+				"FECHA": null,
+				"MSLNK_OLD": 10331,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Muelle Olano",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282960.22352314234,
+							4825934.459125957
+						],
+						[
+							282963.94173960685,
+							4825931.551606539
+						],
+						[
+							282960.5536661339,
+							4825927.218951299
+						],
+						[
+							282956.8354496718,
+							4825930.1264707185
+						],
+						[
+							282960.22352314234,
+							4825934.459125957
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMO20",
+				"DENOMINACION": "Edificio Inspecci\u00f3n Veterinaria",
+				"FECHA": null,
+				"MSLNK_OLD": 10364,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": null,
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Muelles Osa y Moliner",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282481.53060301306,
+							4827001.877118115
+						],
+						[
+							282504.28105831146,
+							4827013.957301276
+						],
+						[
+							282518.7011815596,
+							4826986.747157598
+						],
+						[
+							282496.0007268643,
+							4826974.5969739845
+						],
+						[
+							282481.53060301306,
+							4827001.877118115
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": null,
+				"ANIO_REFORMA": null,
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMOL02",
+				"DENOMINACION": "Oficinas EBHI",
+				"FECHA": null,
+				"MSLNK_OLD": 10164,
+				"OBSERVACIONES": "",
+				"PLANTAS": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": null,
+				"SUPERFICIE": null,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": null,
+				"TIPO_ESTRUCTURA": null,
+				"TIPO_FACHADA": null,
+				"UBICACION": "Muelle Olano",
+				"VALOR_CONTABLE": null,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": null,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": null,
+				"VALOR_REAL": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282906.9035792136,
+							4826071.302052951
+						],
+						[
+							282914.0008437348,
+							4826065.76758724
+						],
+						[
+							282907.84472299815,
+							4826057.873322692
+						],
+						[
+							282900.7446736169,
+							4826063.423537948
+						],
+						[
+							282906.9035792136,
+							4826071.302052951
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"ANIO_CONSTRUCCION": "1979",
+				"ANIO_REFORMA": "1979",
+				"ANIO_REHABILITACION": null,
+				"CODIGO": "EMO06",
+				"DENOMINACION": "Centro de Transformaci\u00f3n N08",
+				"FECHA": null,
+				"MSLNK_OLD": 10301,
+				"OBSERVACIONES": "Potencia Transformador: 1650 Kva y 1250 Kva",
+				"PLANTAS": null,
+				"PROPIETARIO": "Conservacion",
+				"SERV_ASCENSOR": null,
+				"SERV_CALEFACCION": null,
+				"SERV_CLIMATIZACION": null,
+				"SERV_CONTRAINCENDIOS": "Extintores y Extinci\u00f3n autom\u00e1tica CO2",
+				"SUPERFICIE": 78,
+				"TABLE_OLD": "EDIFICIOS_INFRAESTRUCTURA",
+				"TIPO_CUBIERTA": "Esta ubicado LMO3",
+				"TIPO_ESTRUCTURA": "Esta ubicado LMO3",
+				"TIPO_FACHADA": "Esta ubicado LMO3",
+				"UBICACION": "Muelle de la Osa",
+				"VALOR_CONTABLE": 25332.23,
+				"VALOR_EQ_INFORMATICO": null,
+				"VALOR_INSTALACIONES": 103100.0,
+				"VALOR_MOBILIARIO": null,
+				"VALOR_NUEVO": 7800.0,
+				"VALOR_REAL": 5400.0
+			},
+			"type": "Feature"
+		}
+	],
+	"type": "FeatureCollection"
+}

@@ -1,0 +1,3907 @@
+{
+	"features": [
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282019.36892661336,
+							4826233.589380241
+						],
+						[
+							282014.0088831091,
+							4826244.219437723
+						],
+						[
+							282041.0794181323,
+							4826257.969659929
+						],
+						[
+							282046.43946160795,
+							4826247.339602516
+						],
+						[
+							282019.36892661336,
+							4826233.589380241
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR07",
+				"FECHA": "2007-01-22 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Productos Alimentarios Barrio",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282007.3768550229,
+							4825569.875828555
+						],
+						[
+							282010.48,
+							4825562.78
+						],
+						[
+							282003.78355281113,
+							4825559.851512327
+						],
+						[
+							282000.68040783406,
+							4825566.947340882
+						],
+						[
+							282007.3768550229,
+							4825569.875828555
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281159.5295103455,
+							4827292.7211701255
+						],
+						[
+							281164.1288219881,
+							4827298.436283073
+						],
+						[
+							281171.7009460044,
+							4827292.335727999
+						],
+						[
+							281168.9117063308,
+							4827288.872250438
+						],
+						[
+							281170.28491612914,
+							4827287.932342539
+						],
+						[
+							281168.74718883995,
+							4827286.10302291
+						],
+						[
+							281167.5050566125,
+							4827287.125573812
+						],
+						[
+							281167.27437798976,
+							4827286.7561711455
+						],
+						[
+							281164.22385232686,
+							4827288.914311924
+						],
+						[
+							281159.5295103455,
+							4827292.7211701255
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "TEMP01",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "ABO\u00d1O NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282009.3788454604,
+							4826253.389487309
+						],
+						[
+							282004.8988090992,
+							4826262.279535451
+						],
+						[
+							282032.1193453765,
+							4826275.729755917
+						],
+						[
+							282036.50938099145,
+							4826267.01970881
+						],
+						[
+							282009.3788454604,
+							4826253.389487309
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR08",
+				"FECHA": "2007-01-22 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Cet\u00e1rea Jose Ram\u00f3n",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282020.4732657981,
+							4825575.554583962
+						],
+						[
+							282022.619003973,
+							4825570.648016486
+						],
+						[
+							282014.00048023224,
+							4825566.878967045
+						],
+						[
+							282011.85474205733,
+							4825571.785534521
+						],
+						[
+							282020.4732657981,
+							4825575.554583962
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281856.1918070412,
+							4827463.078092084
+						],
+						[
+							281860.6918826175,
+							4827462.338104191
+						],
+						[
+							281859.82184167864,
+							4827456.818058402
+						],
+						[
+							281855.2617649579,
+							4827457.5380459
+						],
+						[
+							281856.1918070412,
+							4827463.078092084
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EAR01",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Centro de Transformaci\u00f3n N02",
+				"OBSERVACIONES": "Potencia Transformador: 1250 Kva",
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "1\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282014.0088831091,
+							4826244.219437723
+						],
+						[
+							282009.3788454604,
+							4826253.389487309
+						],
+						[
+							282036.50938099145,
+							4826267.01970881
+						],
+						[
+							282041.0794181323,
+							4826257.969659929
+						],
+						[
+							282014.0088831091,
+							4826244.219437723
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR12",
+				"FECHA": "2008-04-23 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Campillo",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282048.1961043716,
+							4825606.263739772
+						],
+						[
+							282104.7664122868,
+							4825493.512800975
+						],
+						[
+							282081.4859433675,
+							4825481.83256587
+						],
+						[
+							282024.915634594,
+							4825594.58350543
+						],
+						[
+							282048.1961043716,
+							4825606.263739772
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EFIGA03",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281832.2011400032,
+							4827410.167590907
+						],
+						[
+							281864.131674726,
+							4827404.637675238
+						],
+						[
+							281851.86111018894,
+							4827329.517050128
+						],
+						[
+							281819.85057457926,
+							4827335.086965006
+						],
+						[
+							281832.2011400032,
+							4827410.167590907
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EAR03",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Tinglado Talco",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "1\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281927.4728072977,
+							4826503.699425485
+						],
+						[
+							281918.846749332,
+							4826506.547901077
+						],
+						[
+							281921.1226018524,
+							4826513.439579806
+						],
+						[
+							281929.74865982536,
+							4826510.591104193
+						],
+						[
+							281927.4728072977,
+							4826503.699425485
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "TR23",
+				"FECHA": "2007-02-15 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "C.T. N \u00ba 23 (Capitan\u00eda)",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "ADMINISTRACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282024.7724101424,
+							4826222.784634419
+						],
+						[
+							282019.36892661336,
+							4826233.589380241
+						],
+						[
+							282046.43946160795,
+							4826247.339602516
+						],
+						[
+							282051.9023018384,
+							4826236.655076628
+						],
+						[
+							282024.7724101424,
+							4826222.784634419
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR04",
+				"FECHA": "2007-01-22 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Cet\u00e1rea Otamendi",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282290.5759285331,
+							4826127.876372878
+						],
+						[
+							282293.75517147064,
+							4826121.52575764
+						],
+						[
+							282281.5879289508,
+							4826115.434633761
+						],
+						[
+							282278.4086860037,
+							4826121.785249021
+						],
+						[
+							282290.5759285331,
+							4826127.876372878
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "TEMP03",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "RENDIELLO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282020.4543941188,
+							4825396.571363087
+						],
+						[
+							282133.8465727711,
+							4825436.332328837
+						],
+						[
+							282150.43657438754,
+							4825388.691900065
+						],
+						[
+							282037.08439914224,
+							4825349.030933678
+						],
+						[
+							282020.4543941188,
+							4825396.571363087
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EFIGA02",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almac\u00e9n LEF2 (Figar 2)",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 6000.0,
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281985.28732573986,
+							4826629.385543413
+						],
+						[
+							281986.6850767231,
+							4826626.341052349
+						],
+						[
+							281983.32245773554,
+							4826624.797252932
+						],
+						[
+							281981.9247067523,
+							4826627.841744004
+						],
+						[
+							281985.28732573986,
+							4826629.385543413
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "TR24",
+				"FECHA": "2007-02-15 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "C.T. N \u00ba 24 (Tudela Veguin)",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281893.65889803175,
+							4826988.763191827
+						],
+						[
+							282083.258869257,
+							4827084.460711212
+						],
+						[
+							282105.94420845987,
+							4827039.515864844
+						],
+						[
+							281916.3442381096,
+							4826943.818343497
+						],
+						[
+							281893.65889803175,
+							4826988.763191827
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EE101",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almac\u00e9n Espig\u00f3n I (Aceralia)",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 10500.0,
+				"UBICACION": "I ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281783.69520275114,
+							4826314.078971641
+						],
+						[
+							281873.4769744444,
+							4826359.139705248
+						],
+						[
+							281882.33704526426,
+							4826341.229606505
+						],
+						[
+							281927.047928977,
+							4826363.899972754
+						],
+						[
+							281936.2680044413,
+							4826345.669873419
+						],
+						[
+							281801.92535229685,
+							4826277.988773658
+						],
+						[
+							281783.69520275114,
+							4826314.078971641
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "ETP01",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 5000.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282044.709129045,
+							4826182.689104128
+						],
+						[
+							282072.2096723533,
+							4826196.649330187
+						],
+						[
+							282110.2699796629,
+							4826121.0889243465
+						],
+						[
+							282082.80943707464,
+							4826107.088697679
+						],
+						[
+							282044.709129045,
+							4826182.689104128
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR09",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Arrastreros",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 2609.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281875.2024836183,
+							4825927.736004849
+						],
+						[
+							281882.20165357826,
+							4825931.2802102305
+						],
+						[
+							281899.06906270504,
+							4825897.970034948
+						],
+						[
+							281892.0698928213,
+							4825894.425829499
+						],
+						[
+							281875.2024836183,
+							4825927.736004849
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR17",
+				"FECHA": "2007-11-23 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Cocher\u00f3n Locomotoras",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282049.58439923765,
+							4825312.760605633
+						],
+						[
+							282163.08657875063,
+							4825352.981580152
+						],
+						[
+							282180.17658418656,
+							4825304.781149049
+						],
+						[
+							282066.6744068289,
+							4825264.56017262
+						],
+						[
+							282049.58439923765,
+							4825312.760605633
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EFIGA01",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almac\u00e9n LEFA (LEF 1)",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 6000.0,
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282506.0187677503,
+							4827088.8396554375
+						],
+						[
+							282513.4033800507,
+							4827073.870591929
+						],
+						[
+							282505.98095956806,
+							4827070.169253135
+						],
+						[
+							282498.5963472557,
+							4827085.138316672
+						],
+						[
+							282506.0187677503,
+							4827088.8396554375
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "TEMP02",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "OLANO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281829.8156380582,
+							4826235.10856616
+						],
+						[
+							281883.6567004728,
+							4826262.239008174
+						],
+						[
+							281892.7067732811,
+							4826244.078908715
+						],
+						[
+							281838.6657079077,
+							4826217.0384662915
+						],
+						[
+							281829.8156380582,
+							4826235.10856616
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "ETP02",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Edificio N\u00ba1",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282088.7094866562,
+							4826095.798638072
+						],
+						[
+							282115.970024755,
+							4826109.588862341
+						],
+						[
+							282138.580207119,
+							4826064.7586227795
+						],
+						[
+							282111.2196668482,
+							4826050.848396879
+						],
+						[
+							282088.7094866562,
+							4826095.798638072
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR05",
+				"FECHA": "2007-01-19 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Cet\u00e1rea Tazones",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281872.6238439298,
+							4825655.5408069445
+						],
+						[
+							281947.0046634412,
+							4825713.765519376
+						],
+						[
+							281959.47322783474,
+							4825697.838785226
+						],
+						[
+							281899.6222931838,
+							4825650.983642922
+						],
+						[
+							281942.501572578,
+							4825596.211748841
+						],
+						[
+							281964.22859305143,
+							4825614.042909501
+						],
+						[
+							281977.54127398494,
+							4825597.821735892
+						],
+						[
+							281944.5170273495,
+							4825570.719047988
+						],
+						[
+							281935.9197207904,
+							4825572.5249015475
+						],
+						[
+							281926.95272936585,
+							4825583.450959571
+						],
+						[
+							281879.41058543924,
+							4825644.1789686205
+						],
+						[
+							281872.6238439298,
+							4825655.5408069445
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EFIGA07",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282291.0790418625,
+							4825398.322674053
+						],
+						[
+							282311.8995342398,
+							4825420.853011999
+						],
+						[
+							282321.5496459866,
+							4825411.922963417
+						],
+						[
+							282334.4697956276,
+							4825399.99289876
+						],
+						[
+							282320.6394685078,
+							4825385.032674413
+						],
+						[
+							282313.6493031931,
+							4825377.462560859
+						],
+						[
+							282291.0790418625,
+							4825398.322674053
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMO11",
+				"FECHA": "2008-04-23 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Sasemar",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "AUXILIAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282447.5603146362,
+							4827066.5174619965
+						],
+						[
+							282465.96068171266,
+							4827076.017607866
+						],
+						[
+							282488.2508700967,
+							4827033.427380924
+						],
+						[
+							282481.1681198382,
+							4827029.717902906
+						],
+						[
+							282483.94156338216,
+							4827024.42242641
+						],
+						[
+							282475.32472257613,
+							4827019.909492777
+						],
+						[
+							282472.56055648805,
+							4827025.187255356
+						],
+						[
+							282469.6904991627,
+							4827023.68723243
+						],
+						[
+							282447.5603146362,
+							4827066.5174619965
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMOL01",
+				"FECHA": "2007-01-12 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Talleres EBHI",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "OLANO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281797.8251660061,
+							4826253.228565821
+						],
+						[
+							281816.0455252123,
+							4826262.348715048
+						],
+						[
+							281838.6657079077,
+							4826217.0384662915
+						],
+						[
+							281820.59535176755,
+							4826207.998318143
+						],
+						[
+							281797.8251660061,
+							4826253.228565821
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "ETP03",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 1000.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282114.7396962619,
+							4826044.088361261
+						],
+						[
+							282117.59975266457,
+							4826045.528384786
+						],
+						[
+							282117.6297532797,
+							4826045.54838507
+						],
+						[
+							282131.3600240064,
+							4826052.448497865
+						],
+						[
+							282141.7302284956,
+							4826057.658583002
+						],
+						[
+							282147.8002770424,
+							4826045.548518269
+						],
+						[
+							282147.82027729513,
+							4826045.528518207
+						],
+						[
+							282174.9954414916,
+							4825991.365401153
+						],
+						[
+							282147.9769760275,
+							4825977.915361202
+						],
+						[
+							282130.2898210144,
+							4826013.138195889
+						],
+						[
+							282114.7396962619,
+							4826044.088361261
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR06",
+				"FECHA": "2007-01-19 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Agromar",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281969.9648655248,
+							4825624.913572998
+						],
+						[
+							282017.8459125328,
+							4825662.654201758
+						],
+						[
+							282030.7560399914,
+							4825646.434088261
+						],
+						[
+							281982.6649897027,
+							4825608.733458853
+						],
+						[
+							281969.9648655248,
+							4825624.913572998
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EFIGA05",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282569.0552851033,
+							4825639.316526518
+						],
+						[
+							282661.8776196098,
+							4825757.9781994745
+						],
+						[
+							282702.4081280112,
+							4825726.728060389
+						],
+						[
+							282609.3257866597,
+							4825607.856384969
+						],
+						[
+							282569.0552851033,
+							4825639.316526518
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMO05",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almac\u00e9n LM05",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 7500.0,
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281704.43502460717,
+							4826573.420627267
+						],
+						[
+							281749.20591078757,
+							4826596.210992801
+						],
+						[
+							281767.51606414083,
+							4826560.440795379
+						],
+						[
+							281722.86517961265,
+							4826537.520428986
+						],
+						[
+							281704.43502460717,
+							4826573.420627267
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EALI501",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Nave G. Junquera Mar\u00edtima (Invergijon)",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "5\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281999.08886121033,
+							4826295.059759612
+						],
+						[
+							282017.6192277694,
+							4826304.519911856
+						],
+						[
+							282032.1193453765,
+							4826275.729755917
+						],
+						[
+							282013.54343610286,
+							4826266.551021464
+						],
+						[
+							281999.08886121033,
+							4826295.059759612
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR02",
+				"FECHA": "2007-01-22 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Pescados Sanz",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282223.98965784075,
+							4826330.485450407
+						],
+						[
+							282232.0335623479,
+							4826334.5226130895
+						],
+						[
+							282251.59325588704,
+							4826295.550857327
+						],
+						[
+							282260.423326757,
+							4826277.980763395
+						],
+						[
+							282255.35322656634,
+							4826275.4307222245
+						],
+						[
+							282250.48313028336,
+							4826272.97068259
+						],
+						[
+							282239.1230389619,
+							4826295.550803323
+						],
+						[
+							282237.00452277187,
+							4826299.9837610265
+						],
+						[
+							282238.8368529129,
+							4826300.90312289
+						],
+						[
+							282223.98965784075,
+							4826330.485450407
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR13",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281997.9590000391,
+							4825565.579000166
+						],
+						[
+							282005.51239273784,
+							4825548.306980972
+						],
+						[
+							281987.14939273836,
+							4825540.276480973
+						],
+						[
+							281979.5960000396,
+							4825557.548500166
+						],
+						[
+							281997.9590000391,
+							4825565.579000166
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282673.17711187125,
+							4825644.117062285
+						],
+						[
+							282710.38804888487,
+							4825691.667731624
+						],
+						[
+							282749.78853827476,
+							4825660.8175931955
+						],
+						[
+							282712.497599225,
+							4825613.226923432
+						],
+						[
+							282673.17711187125,
+							4825644.117062285
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMO02",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almac\u00e9n LM02",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 3770.0,
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282080.11210690736,
+							4826687.193085046
+						],
+						[
+							282124.4329850173,
+							4826709.523440471
+						],
+						[
+							282143.0031361723,
+							4826672.653239394
+						],
+						[
+							282098.67225805286,
+							4826650.322883549
+						],
+						[
+							282080.11210690736,
+							4826687.193085046
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EE202",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Intermonte Asturias S.A",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282308.33379167557,
+							4826199.860384755
+						],
+						[
+							282314.2839207125,
+							4826205.29045145
+						],
+						[
+							282331.18412822246,
+							4826187.010388058
+						],
+						[
+							282325.19399830344,
+							4826181.540320887
+						],
+						[
+							282308.33379167557,
+							4826199.860384755
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR14",
+				"FECHA": "2008-04-23 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Cet\u00e1rea Rosamar",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "RENDIELLO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282844.8921215343,
+							4825991.821198164
+						],
+						[
+							282906.9035792136,
+							4826071.302052951
+						],
+						[
+							282947.2141277575,
+							4826039.79200027
+						],
+						[
+							282885.31267127517,
+							4825960.201145654
+						],
+						[
+							282844.8921215343,
+							4825991.821198164
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMO03",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almac\u00e9n LM03",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 5000.0,
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282004.7306096983,
+							4826648.282471893
+						],
+						[
+							282073.1119641996,
+							4826682.803022296
+						],
+						[
+							282091.3221127319,
+							4826646.672824879
+						],
+						[
+							282022.8607588649,
+							4826612.532276459
+						],
+						[
+							282004.7306096983,
+							4826648.282471893
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EE204",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Casocobos S.A",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282281.11041538714,
+							4826164.615476847
+						],
+						[
+							282284.277655797,
+							4826158.288836942
+						],
+						[
+							282277.6711408854,
+							4826154.981505842
+						],
+						[
+							282274.50390047074,
+							4826161.308145752
+						],
+						[
+							282281.11041538714,
+							4826164.615476847
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "TR06",
+				"FECHA": "2007-02-13 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Centro de Transformaci\u00f3n N06",
+				"OBSERVACIONES": "Potencia Transformador: 800 Kva",
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 13.0,
+				"UBICACION": "RENDIELLO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282958.0641514516,
+							4826005.541798416
+						],
+						[
+							282978.25442470313,
+							4825989.501770752
+						],
+						[
+							282941.20355405094,
+							4825942.121261421
+						],
+						[
+							282920.6332742143,
+							4825958.151287184
+						],
+						[
+							282958.0641514516,
+							4826005.541798416
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMO04",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almac\u00e9n LM04",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 1500.0,
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282076.67199322226,
+							4826675.732983615
+						],
+						[
+							282084.02213879826,
+							4826679.433042615
+						],
+						[
+							282089.43218271015,
+							4826668.6529836105
+						],
+						[
+							282082.1020374894,
+							4826664.952924678
+						],
+						[
+							282076.67199322226,
+							4826675.732983615
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EE203",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Centro de Transformaci\u00f3n N04",
+				"OBSERVACIONES": "Potencia Transformador: 1050 Kva (Ba\u00f1o silicona)",
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 20.0,
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282356.1515308571,
+							4826159.606563449
+						],
+						[
+							282391.1348595834,
+							4826121.3101584455
+						],
+						[
+							282460.3457029414,
+							4826045.549897261
+						],
+						[
+							282476.29589713574,
+							4826028.099837627
+						],
+						[
+							282472.40581406595,
+							4826024.819796021
+						],
+						[
+							282470.48577306035,
+							4826023.199775474
+						],
+						[
+							282467.8757414031,
+							4826026.079785405
+						],
+						[
+							282450.2355273771,
+							4826045.539852601
+						],
+						[
+							282450.2255272508,
+							4826045.549852634
+						],
+						[
+							282449.18551473616,
+							4826046.71985677
+						],
+						[
+							282391.1348069167,
+							4826110.170075152
+						],
+						[
+							282390.8148030114,
+							4826110.520076365
+						],
+						[
+							282374.8546082497,
+							4826127.970136876
+						],
+						[
+							282374.86460842134,
+							4826127.970136919
+						],
+						[
+							282376.3663076043,
+							4826129.330153678
+						],
+						[
+							282352.2043470812,
+							4826155.99024745
+						],
+						[
+							282356.1515308571,
+							4826159.606563449
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR03",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almacenes Pescadores",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 1320.0,
+				"UBICACION": "RENDIELLO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							283200.2749934864,
+							4826391.381072579
+						],
+						[
+							283134.2461396814,
+							4826503.364852242
+						],
+						[
+							283129.6161951923,
+							4826500.641088133
+						],
+						[
+							283124.5455555654,
+							4826509.260240764
+						],
+						[
+							283129.2861631227,
+							4826512.049107175
+						],
+						[
+							283124.21552348614,
+							4826520.668259828
+						],
+						[
+							283186.8345745611,
+							4826557.506702116
+						],
+						[
+							283262.8939224386,
+							4826428.21961447
+						],
+						[
+							283200.2749934864,
+							4826391.381072579
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMO14",
+				"FECHA": "2008-04-22 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Ceferino Ballesteros",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "MOLINER"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282019.36892661336,
+							4826233.589380241
+						],
+						[
+							282014.0088831091,
+							4826244.219437723
+						],
+						[
+							282041.0794181323,
+							4826257.969659929
+						],
+						[
+							282046.43946160795,
+							4826247.339602516
+						],
+						[
+							282019.36892661336,
+							4826233.589380241
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR07",
+				"FECHA": "2007-01-22 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Productos Alimentarios Barrio",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282007.3768550229,
+							4825569.875828555
+						],
+						[
+							282010.48,
+							4825562.78
+						],
+						[
+							282003.78355281113,
+							4825559.851512327
+						],
+						[
+							282000.68040783406,
+							4825566.947340882
+						],
+						[
+							282007.3768550229,
+							4825569.875828555
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281159.5295103455,
+							4827292.7211701255
+						],
+						[
+							281164.1288219881,
+							4827298.436283073
+						],
+						[
+							281171.7009460044,
+							4827292.335727999
+						],
+						[
+							281168.9117063308,
+							4827288.872250438
+						],
+						[
+							281170.28491612914,
+							4827287.932342539
+						],
+						[
+							281168.74718883995,
+							4827286.10302291
+						],
+						[
+							281167.5050566125,
+							4827287.125573812
+						],
+						[
+							281167.27437798976,
+							4827286.7561711455
+						],
+						[
+							281164.22385232686,
+							4827288.914311924
+						],
+						[
+							281159.5295103455,
+							4827292.7211701255
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "TEMP01",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "ABO\u00d1O NORTE"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282009.3788454604,
+							4826253.389487309
+						],
+						[
+							282004.8988090992,
+							4826262.279535451
+						],
+						[
+							282032.1193453765,
+							4826275.729755917
+						],
+						[
+							282036.50938099145,
+							4826267.01970881
+						],
+						[
+							282009.3788454604,
+							4826253.389487309
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR08",
+				"FECHA": "2007-01-22 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Cet\u00e1rea Jose Ram\u00f3n",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282020.4732657981,
+							4825575.554583962
+						],
+						[
+							282022.619003973,
+							4825570.648016486
+						],
+						[
+							282014.00048023224,
+							4825566.878967045
+						],
+						[
+							282011.85474205733,
+							4825571.785534521
+						],
+						[
+							282020.4732657981,
+							4825575.554583962
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281856.1918070412,
+							4827463.078092084
+						],
+						[
+							281860.6918826175,
+							4827462.338104191
+						],
+						[
+							281859.82184167864,
+							4827456.818058402
+						],
+						[
+							281855.2617649579,
+							4827457.5380459
+						],
+						[
+							281856.1918070412,
+							4827463.078092084
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EAR01",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Centro de Transformaci\u00f3n N02",
+				"OBSERVACIONES": "Potencia Transformador: 1250 Kva",
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "1\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282014.0088831091,
+							4826244.219437723
+						],
+						[
+							282009.3788454604,
+							4826253.389487309
+						],
+						[
+							282036.50938099145,
+							4826267.01970881
+						],
+						[
+							282041.0794181323,
+							4826257.969659929
+						],
+						[
+							282014.0088831091,
+							4826244.219437723
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR12",
+				"FECHA": "2008-04-23 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Campillo",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282048.1961043716,
+							4825606.263739772
+						],
+						[
+							282104.7664122868,
+							4825493.512800975
+						],
+						[
+							282081.4859433675,
+							4825481.83256587
+						],
+						[
+							282024.915634594,
+							4825594.58350543
+						],
+						[
+							282048.1961043716,
+							4825606.263739772
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EFIGA03",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281832.2011400032,
+							4827410.167590907
+						],
+						[
+							281864.131674726,
+							4827404.637675238
+						],
+						[
+							281851.86111018894,
+							4827329.517050128
+						],
+						[
+							281819.85057457926,
+							4827335.086965006
+						],
+						[
+							281832.2011400032,
+							4827410.167590907
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EAR03",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Tinglado Talco",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "1\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281927.4728072977,
+							4826503.699425485
+						],
+						[
+							281918.846749332,
+							4826506.547901077
+						],
+						[
+							281921.1226018524,
+							4826513.439579806
+						],
+						[
+							281929.74865982536,
+							4826510.591104193
+						],
+						[
+							281927.4728072977,
+							4826503.699425485
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "TR23",
+				"FECHA": "2007-02-15 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "C.T. N \u00ba 23 (Capitan\u00eda)",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "ADMINISTRACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282024.7724101424,
+							4826222.784634419
+						],
+						[
+							282019.36892661336,
+							4826233.589380241
+						],
+						[
+							282046.43946160795,
+							4826247.339602516
+						],
+						[
+							282051.9023018384,
+							4826236.655076628
+						],
+						[
+							282024.7724101424,
+							4826222.784634419
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR04",
+				"FECHA": "2007-01-22 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Cet\u00e1rea Otamendi",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282290.5759285331,
+							4826127.876372878
+						],
+						[
+							282293.75517147064,
+							4826121.52575764
+						],
+						[
+							282281.5879289508,
+							4826115.434633761
+						],
+						[
+							282278.4086860037,
+							4826121.785249021
+						],
+						[
+							282290.5759285331,
+							4826127.876372878
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "TEMP03",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "RENDIELLO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282020.4543941188,
+							4825396.571363087
+						],
+						[
+							282133.8465727711,
+							4825436.332328837
+						],
+						[
+							282150.43657438754,
+							4825388.691900065
+						],
+						[
+							282037.08439914224,
+							4825349.030933678
+						],
+						[
+							282020.4543941188,
+							4825396.571363087
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EFIGA02",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almac\u00e9n LEF2 (Figar 2)",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 6000.0,
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281985.28732573986,
+							4826629.385543413
+						],
+						[
+							281986.6850767231,
+							4826626.341052349
+						],
+						[
+							281983.32245773554,
+							4826624.797252932
+						],
+						[
+							281981.9247067523,
+							4826627.841744004
+						],
+						[
+							281985.28732573986,
+							4826629.385543413
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "TR24",
+				"FECHA": "2007-02-15 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "C.T. N \u00ba 24 (Tudela Veguin)",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281893.65889803175,
+							4826988.763191827
+						],
+						[
+							282083.258869257,
+							4827084.460711212
+						],
+						[
+							282105.94420845987,
+							4827039.515864844
+						],
+						[
+							281916.3442381096,
+							4826943.818343497
+						],
+						[
+							281893.65889803175,
+							4826988.763191827
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EE101",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almac\u00e9n Espig\u00f3n I (Aceralia)",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 10500.0,
+				"UBICACION": "I ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281783.69520275114,
+							4826314.078971641
+						],
+						[
+							281873.4769744444,
+							4826359.139705248
+						],
+						[
+							281882.33704526426,
+							4826341.229606505
+						],
+						[
+							281927.047928977,
+							4826363.899972754
+						],
+						[
+							281936.2680044413,
+							4826345.669873419
+						],
+						[
+							281801.92535229685,
+							4826277.988773658
+						],
+						[
+							281783.69520275114,
+							4826314.078971641
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "ETP01",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 5000.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282044.709129045,
+							4826182.689104128
+						],
+						[
+							282072.2096723533,
+							4826196.649330187
+						],
+						[
+							282110.2699796629,
+							4826121.0889243465
+						],
+						[
+							282082.80943707464,
+							4826107.088697679
+						],
+						[
+							282044.709129045,
+							4826182.689104128
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR09",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Arrastreros",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 2609.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281875.2024836183,
+							4825927.736004849
+						],
+						[
+							281882.20165357826,
+							4825931.2802102305
+						],
+						[
+							281899.06906270504,
+							4825897.970034948
+						],
+						[
+							281892.0698928213,
+							4825894.425829499
+						],
+						[
+							281875.2024836183,
+							4825927.736004849
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR17",
+				"FECHA": "2007-11-23 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Cocher\u00f3n Locomotoras",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282049.58439923765,
+							4825312.760605633
+						],
+						[
+							282163.08657875063,
+							4825352.981580152
+						],
+						[
+							282180.17658418656,
+							4825304.781149049
+						],
+						[
+							282066.6744068289,
+							4825264.56017262
+						],
+						[
+							282049.58439923765,
+							4825312.760605633
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EFIGA01",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almac\u00e9n LEFA (LEF 1)",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 6000.0,
+				"UBICACION": "FIGAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282506.0187677503,
+							4827088.8396554375
+						],
+						[
+							282513.4033800507,
+							4827073.870591929
+						],
+						[
+							282505.98095956806,
+							4827070.169253135
+						],
+						[
+							282498.5963472557,
+							4827085.138316672
+						],
+						[
+							282506.0187677503,
+							4827088.8396554375
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "TEMP02",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "OLANO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281829.8156380582,
+							4826235.10856616
+						],
+						[
+							281883.6567004728,
+							4826262.239008174
+						],
+						[
+							281892.7067732811,
+							4826244.078908715
+						],
+						[
+							281838.6657079077,
+							4826217.0384662915
+						],
+						[
+							281829.8156380582,
+							4826235.10856616
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "ETP02",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Edificio N\u00ba1",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "SERVICIOS LOGISTICOS"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282088.7094866562,
+							4826095.798638072
+						],
+						[
+							282115.970024755,
+							4826109.588862341
+						],
+						[
+							282138.580207119,
+							4826064.7586227795
+						],
+						[
+							282111.2196668482,
+							4826050.848396879
+						],
+						[
+							282088.7094866562,
+							4826095.798638072
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR05",
+				"FECHA": "2007-01-19 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Cet\u00e1rea Tazones",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281872.6238439298,
+							4825655.5408069445
+						],
+						[
+							281947.0046634412,
+							4825713.765519376
+						],
+						[
+							281959.47322783474,
+							4825697.838785226
+						],
+						[
+							281899.6222931838,
+							4825650.983642922
+						],
+						[
+							281942.501572578,
+							4825596.211748841
+						],
+						[
+							281964.22859305143,
+							4825614.042909501
+						],
+						[
+							281977.54127398494,
+							4825597.821735892
+						],
+						[
+							281944.5170273495,
+							4825570.719047988
+						],
+						[
+							281935.9197207904,
+							4825572.5249015475
+						],
+						[
+							281926.95272936585,
+							4825583.450959571
+						],
+						[
+							281879.41058543924,
+							4825644.1789686205
+						],
+						[
+							281872.6238439298,
+							4825655.5408069445
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EFIGA07",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282291.0790418625,
+							4825398.322674053
+						],
+						[
+							282311.8995342398,
+							4825420.853011999
+						],
+						[
+							282321.5496459866,
+							4825411.922963417
+						],
+						[
+							282334.4697956276,
+							4825399.99289876
+						],
+						[
+							282320.6394685078,
+							4825385.032674413
+						],
+						[
+							282313.6493031931,
+							4825377.462560859
+						],
+						[
+							282291.0790418625,
+							4825398.322674053
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMO11",
+				"FECHA": "2008-04-23 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Sasemar",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "AUXILIAR"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282447.5603146362,
+							4827066.5174619965
+						],
+						[
+							282465.96068171266,
+							4827076.017607866
+						],
+						[
+							282488.2508700967,
+							4827033.427380924
+						],
+						[
+							282481.1681198382,
+							4827029.717902906
+						],
+						[
+							282483.94156338216,
+							4827024.42242641
+						],
+						[
+							282475.32472257613,
+							4827019.909492777
+						],
+						[
+							282472.56055648805,
+							4827025.187255356
+						],
+						[
+							282469.6904991627,
+							4827023.68723243
+						],
+						[
+							282447.5603146362,
+							4827066.5174619965
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMOL01",
+				"FECHA": "2007-01-12 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Talleres EBHI",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "OLANO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281797.8251660061,
+							4826253.228565821
+						],
+						[
+							281816.0455252123,
+							4826262.348715048
+						],
+						[
+							281838.6657079077,
+							4826217.0384662915
+						],
+						[
+							281820.59535176755,
+							4826207.998318143
+						],
+						[
+							281797.8251660061,
+							4826253.228565821
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "ETP03",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 1000.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282114.7396962619,
+							4826044.088361261
+						],
+						[
+							282117.59975266457,
+							4826045.528384786
+						],
+						[
+							282117.6297532797,
+							4826045.54838507
+						],
+						[
+							282131.3600240064,
+							4826052.448497865
+						],
+						[
+							282141.7302284956,
+							4826057.658583002
+						],
+						[
+							282147.8002770424,
+							4826045.548518269
+						],
+						[
+							282147.82027729513,
+							4826045.528518207
+						],
+						[
+							282174.9954414916,
+							4825991.365401153
+						],
+						[
+							282147.9769760275,
+							4825977.915361202
+						],
+						[
+							282130.2898210144,
+							4826013.138195889
+						],
+						[
+							282114.7396962619,
+							4826044.088361261
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR06",
+				"FECHA": "2007-01-19 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Agromar",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281969.9648655248,
+							4825624.913572998
+						],
+						[
+							282017.8459125328,
+							4825662.654201758
+						],
+						[
+							282030.7560399914,
+							4825646.434088261
+						],
+						[
+							281982.6649897027,
+							4825608.733458853
+						],
+						[
+							281969.9648655248,
+							4825624.913572998
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EFIGA05",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282569.0552851033,
+							4825639.316526518
+						],
+						[
+							282661.8776196098,
+							4825757.9781994745
+						],
+						[
+							282702.4081280112,
+							4825726.728060389
+						],
+						[
+							282609.3257866597,
+							4825607.856384969
+						],
+						[
+							282569.0552851033,
+							4825639.316526518
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMO05",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almac\u00e9n LM05",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 7500.0,
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281704.43502460717,
+							4826573.420627267
+						],
+						[
+							281749.20591078757,
+							4826596.210992801
+						],
+						[
+							281767.51606414083,
+							4826560.440795379
+						],
+						[
+							281722.86517961265,
+							4826537.520428986
+						],
+						[
+							281704.43502460717,
+							4826573.420627267
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EALI501",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Nave G. Junquera Mar\u00edtima (Invergijon)",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "5\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281999.08886121033,
+							4826295.059759612
+						],
+						[
+							282017.6192277694,
+							4826304.519911856
+						],
+						[
+							282032.1193453765,
+							4826275.729755917
+						],
+						[
+							282013.54343610286,
+							4826266.551021464
+						],
+						[
+							281999.08886121033,
+							4826295.059759612
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR02",
+				"FECHA": "2007-01-22 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Pescados Sanz",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "6\u00aa ALINEACION"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282223.98965784075,
+							4826330.485450407
+						],
+						[
+							282232.0335623479,
+							4826334.5226130895
+						],
+						[
+							282251.59325588704,
+							4826295.550857327
+						],
+						[
+							282260.423326757,
+							4826277.980763395
+						],
+						[
+							282255.35322656634,
+							4826275.4307222245
+						],
+						[
+							282250.48313028336,
+							4826272.97068259
+						],
+						[
+							282239.1230389619,
+							4826295.550803323
+						],
+						[
+							282237.00452277187,
+							4826299.9837610265
+						],
+						[
+							282238.8368529129,
+							4826300.90312289
+						],
+						[
+							282223.98965784075,
+							4826330.485450407
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR13",
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							281997.9590000391,
+							4825565.579000166
+						],
+						[
+							282005.51239273784,
+							4825548.306980972
+						],
+						[
+							281987.14939273836,
+							4825540.276480973
+						],
+						[
+							281979.5960000396,
+							4825557.548500166
+						],
+						[
+							281997.9590000391,
+							4825565.579000166
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": null,
+				"FECHA": null,
+				"MSLINK_OLD": null,
+				"NOMBRE": null,
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282673.17711187125,
+							4825644.117062285
+						],
+						[
+							282710.38804888487,
+							4825691.667731624
+						],
+						[
+							282749.78853827476,
+							4825660.8175931955
+						],
+						[
+							282712.497599225,
+							4825613.226923432
+						],
+						[
+							282673.17711187125,
+							4825644.117062285
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMO02",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almac\u00e9n LM02",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 3770.0,
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282080.11210690736,
+							4826687.193085046
+						],
+						[
+							282124.4329850173,
+							4826709.523440471
+						],
+						[
+							282143.0031361723,
+							4826672.653239394
+						],
+						[
+							282098.67225805286,
+							4826650.322883549
+						],
+						[
+							282080.11210690736,
+							4826687.193085046
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EE202",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Intermonte Asturias S.A",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282308.33379167557,
+							4826199.860384755
+						],
+						[
+							282314.2839207125,
+							4826205.29045145
+						],
+						[
+							282331.18412822246,
+							4826187.010388058
+						],
+						[
+							282325.19399830344,
+							4826181.540320887
+						],
+						[
+							282308.33379167557,
+							4826199.860384755
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR14",
+				"FECHA": "2008-04-23 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Cet\u00e1rea Rosamar",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": null,
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "RENDIELLO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282844.8921215343,
+							4825991.821198164
+						],
+						[
+							282906.9035792136,
+							4826071.302052951
+						],
+						[
+							282947.2141277575,
+							4826039.79200027
+						],
+						[
+							282885.31267127517,
+							4825960.201145654
+						],
+						[
+							282844.8921215343,
+							4825991.821198164
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMO03",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almac\u00e9n LM03",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 5000.0,
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282004.7306096983,
+							4826648.282471893
+						],
+						[
+							282073.1119641996,
+							4826682.803022296
+						],
+						[
+							282091.3221127319,
+							4826646.672824879
+						],
+						[
+							282022.8607588649,
+							4826612.532276459
+						],
+						[
+							282004.7306096983,
+							4826648.282471893
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EE204",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Casocobos S.A",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282281.11041538714,
+							4826164.615476847
+						],
+						[
+							282284.277655797,
+							4826158.288836942
+						],
+						[
+							282277.6711408854,
+							4826154.981505842
+						],
+						[
+							282274.50390047074,
+							4826161.308145752
+						],
+						[
+							282281.11041538714,
+							4826164.615476847
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "TR06",
+				"FECHA": "2007-02-13 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Centro de Transformaci\u00f3n N06",
+				"OBSERVACIONES": "Potencia Transformador: 800 Kva",
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 13.0,
+				"UBICACION": "RENDIELLO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282958.0641514516,
+							4826005.541798416
+						],
+						[
+							282978.25442470313,
+							4825989.501770752
+						],
+						[
+							282941.20355405094,
+							4825942.121261421
+						],
+						[
+							282920.6332742143,
+							4825958.151287184
+						],
+						[
+							282958.0641514516,
+							4826005.541798416
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMO04",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almac\u00e9n LM04",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 1500.0,
+				"UBICACION": "MUELLES OSA"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282076.67199322226,
+							4826675.732983615
+						],
+						[
+							282084.02213879826,
+							4826679.433042615
+						],
+						[
+							282089.43218271015,
+							4826668.6529836105
+						],
+						[
+							282082.1020374894,
+							4826664.952924678
+						],
+						[
+							282076.67199322226,
+							4826675.732983615
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EE203",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Centro de Transformaci\u00f3n N04",
+				"OBSERVACIONES": "Potencia Transformador: 1050 Kva (Ba\u00f1o silicona)",
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 20.0,
+				"UBICACION": "II ESPIGON"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							282356.1515308571,
+							4826159.606563449
+						],
+						[
+							282391.1348595834,
+							4826121.3101584455
+						],
+						[
+							282460.3457029414,
+							4826045.549897261
+						],
+						[
+							282476.29589713574,
+							4826028.099837627
+						],
+						[
+							282472.40581406595,
+							4826024.819796021
+						],
+						[
+							282470.48577306035,
+							4826023.199775474
+						],
+						[
+							282467.8757414031,
+							4826026.079785405
+						],
+						[
+							282450.2355273771,
+							4826045.539852601
+						],
+						[
+							282450.2255272508,
+							4826045.549852634
+						],
+						[
+							282449.18551473616,
+							4826046.71985677
+						],
+						[
+							282391.1348069167,
+							4826110.170075152
+						],
+						[
+							282390.8148030114,
+							4826110.520076365
+						],
+						[
+							282374.8546082497,
+							4826127.970136876
+						],
+						[
+							282374.86460842134,
+							4826127.970136919
+						],
+						[
+							282376.3663076043,
+							4826129.330153678
+						],
+						[
+							282352.2043470812,
+							4826155.99024745
+						],
+						[
+							282356.1515308571,
+							4826159.606563449
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMR03",
+				"FECHA": "2005-10-27 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Almacenes Pescadores",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Conservacion",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 1320.0,
+				"UBICACION": "RENDIELLO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					[
+						[
+							283200.2749934864,
+							4826391.381072579
+						],
+						[
+							283134.2461396814,
+							4826503.364852242
+						],
+						[
+							283129.6161951923,
+							4826500.641088133
+						],
+						[
+							283124.5455555654,
+							4826509.260240764
+						],
+						[
+							283129.2861631227,
+							4826512.049107175
+						],
+						[
+							283124.21552348614,
+							4826520.668259828
+						],
+						[
+							283186.8345745611,
+							4826557.506702116
+						],
+						[
+							283262.8939224386,
+							4826428.21961447
+						],
+						[
+							283200.2749934864,
+							4826391.381072579
+						]
+					]
+				],
+				"type": "Polygon"
+			},
+			"properties": {
+				"CODIGO": "EMO14",
+				"FECHA": "2008-04-22 00:00:00.0000000",
+				"MSLINK_OLD": null,
+				"NOMBRE": "Ceferino Ballesteros",
+				"OBSERVACIONES": null,
+				"PROPIETARIO": "Dominio P\u00fablico",
+				"TABLA_OLD": "NAVES",
+				"TOTAL": 0.0,
+				"UBICACION": "MOLINER"
+			},
+			"type": "Feature"
+		}
+	],
+	"type": "FeatureCollection"
+}

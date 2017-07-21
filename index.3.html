@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="es" class="">
+
+<head>
+	<meta charset="utf-8" />
+	<title>GISAPG</title>
+	<meta name="description" content="app, web app, responsive, responsive layout, admin, admin panel, admin dashboard, flat, flat ui, ui kit, AngularJS, ui route, charts, widgets, components" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.1.0/dist/leaflet.css" integrity="sha512-wcw6ts8Anuw10Mzh9Ytw4pylW8+NAD4ch3lqm9lzAsTxg0GFeJgoAtxuCLREZSC5lUXdVyo/7yfsqFjQ4S+aKw==" crossorigin="" />
+	<link rel="stylesheet" href="https://unpkg.com/leaflet-easybutton@2.0.0/src/easy-button.css">
+	<link rel="stylesheet" href="./libs/assets/animate.css/animate.css" type="text/css" />
+	<link rel="stylesheet" href="./libs/assets/font-awesome/css/font-awesome.min.css" type="text/css" />
+	<link rel="stylesheet" href="./libs/assets/simple-line-icons/css/simple-line-icons.css" type="text/css" />
+	<link rel="stylesheet" href="./libs/jquery/bootstrap/dist/css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="./css/font.css" type="text/css" />
+	<link rel="stylesheet" href="./css/app.css" type="text/css" />
+</head>
+
+<body>
+	<div class="app app-header-fixed app-aside-fixed app-aside-folded">
+		<!-- header -->
+		<header id="header" class="app-header navbar" role="menu">
+			<!-- navbar header -->
+			<div class="navbar-header bg-dark">
+				<button class="pull-right visible-xs dk" ui-toggle-class="show" target=".navbar-collapse">
+					<i class="glyphicon glyphicon-cog"></i>
+				</button>
+				<button class="pull-right visible-xs" ui-toggle-class="off-screen" target=".app-aside" ui-scroll="app">
+					<i class="glyphicon glyphicon-align-justify"></i>
+				</button>
+				<!-- brand -->
+				<a href="#/" class="navbar-brand text-lt">
+		  <i class="fa fa-map-marker"></i>
+		  <span class="hidden-folded m-l-xs">GISAPG</span>
+		</a>
+				<!-- / brand -->
+			</div>
+			<!-- / navbar header -->
+			<!-- navbar collapse -->
+			<div class="collapse pos-rlt navbar-collapse box-shadow bg-white-only">
+				<!-- buttons -->
+				<div class="nav navbar-nav hidden-xs">
+					<a href="#" class="btn no-shadow navbar-btn" ui-toggle-class="app-aside-folded" target=".app">
+			<i class="fa fa-indent fa-fw text"></i>
+			<i class="fa fa-dedent fa-fw text-active"></i>
+		  </a>
+				</div>
+				<!-- / buttons -->
+				<!-- search form -->
+				<form class="navbar-form navbar-form-sm navbar-left shift" ui-shift="prependTo" data-target=".navbar-collapse" role="search" ng-controller="TypeaheadDemoCtrl">
+					<div class="form-group">
+						<div class="input-group">
+							<input type="text" ng-model="selected" typeahead="state for state in states | filter:$viewValue | limitTo:8" class="form-control input-sm bg-light no-border rounded padder" placeholder="Search projects...">
+							<span class="input-group-btn">
+				<button type="submit" class="btn btn-sm bg-light rounded"><i class="fa fa-search"></i></button>
+			  </span>
+						</div>
+					</div>
+				</form>
+				<!-- / search form -->
+			</div>
+			<!-- / navbar collapse -->
+		</header>
+		<!-- / header -->
+		<!-- aside -->
+		<aside id="aside" class="app-aside hidden-xs bg-dark">
+			<div class="aside-wrap">
+				<div class="navi-wrap">
+					<!-- nav -->
+					<nav ui-nav class="navi clearfix">
+						<ul class="nav">
+							<li class="hidden-folded padder m-t m-b-sm text-muted text-xs">
+								<span>Navigation</span>
+							</li>
+							<li>
+								<a href class="auto">
+				  <span class="pull-right text-muted">
+					<i class="fa fa-fw fa-angle-right text"></i>
+					<i class="fa fa-fw fa-angle-down text-active"></i>
+				  </span>
+				  <i class="glyphicon glyphicon-stats icon text-primary-dker"></i>
+				  <span class="font-bold">Dashboard</span>
+				</a>
+								<ul class="nav nav-sub dk">
+									<li class="nav-sub-header">
+										<a href>
+					  <span>Dashboard</span>
+					</a>
+									</li>
+									<li>
+										<a href="index.html">
+					  <span>Dashboard v1</span>
+					</a>
+									</li>
+								</ul>
+							</li>
+							<li class="line dk"></li>
+							<li class="hidden-folded padder m-t m-b-sm text-muted text-xs">
+								<span>Components</span>
+							</li>
+							<li>
+								<a href class="auto">
+				  <span class="pull-right text-muted">
+					<i class="fa fa-fw fa-angle-right text"></i>
+					<i class="fa fa-fw fa-angle-down text-active"></i>
+				  </span>
+				  <b class="badge bg-info pull-right">3</b>
+				  <i class="glyphicon glyphicon-th"></i>
+				  <span>Layout</span>
+				</a>
+								<ul class="nav nav-sub dk">
+									<li class="nav-sub-header">
+										<a href>
+					  <span>Layout</span>
+					</a>
+									</li>
+									<li>
+										<a href="layout_app.html">
+					  <span>Application</span>
+					</a>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</nav>
+					<!-- nav -->
+					<!-- aside footer -->
+					<div class="wrapper m-t">
+					</div>
+					<!-- / aside footer -->
+				</div>
+			</div>
+		</aside>
+		<!-- / aside -->
+		<!-- content -->
+		<div id="content" class="app-content" role="main">
+			<div class="app-content-body app-content-full">
+				<!-- hbox layout -->
+				<div class="hbox hbox-auto-xs bg-light ">
+					<!-- column -->
+					<div class="col item">
+						<div id="mapid" class="h-full" style="min-height:480px;">
+						</div>
+					</div>
+					<!-- right col -->
+					<div class="col w-md bg-white-only b-l bg-auto no-border-xs">
+						<div class="nav-tabs-alt">
+							<ul class="nav nav-tabs" role="tablist">
+								<li class="active">
+									<a data-target="#tab-1" role="tab" data-toggle="tab">
+			<i class="glyphicon glyphicon-user text-md text-muted wrapper-sm"></i>
+		  </a>
+								</li>
+								<li>
+									<a data-target="#tab-2" role="tab" data-toggle="tab">
+			<i class="glyphicon glyphicon-comment text-md text-muted wrapper-sm"></i>
+		  </a>
+								</li>
+								<li>
+									<a data-target="#tab-3" role="tab" data-toggle="tab">
+			<i class="glyphicon glyphicon-transfer text-md text-muted wrapper-sm"></i>
+		  </a>
+								</li>
+							</ul>
+						</div>
+						<div class="tab-content">
+							<div role="tabpanel" class="tab-pane active" id="tab-1">
+								<div class="wrapper-md">
+									Capas
+								</div>
+								<div id="layerControldiv"> </div>
+							</div>
+							<div role="tabpanel" class="tab-pane tab-2" id="tab-2">
+								<div class="wrapper-md">
+									Datos
+								</div>
+								<div id="featureInfodiv"> </div>
+							</div>
+							<div role="tabpanel" class="tab-pane tab-3" id="tab-3">
+								<div class="wrapper-md">
+									Ficheros
+								</div>
+							</div>
+						</div>
+						<div data-ng-include=" 'tpl/blocks/aside.right.html' ">
+						</div>
+					</div>
+					<!-- / right col -->
+				</div>
+				<!-- /hbox layout -->
+			</div>
+		</div>
+		<!-- /content -->
+		<!-- footer -->
+		<footer id="footer" class="app-footer" role="footer">
+			<div class="wrapper b-t bg-light">
+				<span class="pull-right">1.0.1 <a href ui-scroll="app" class="m-l-sm text-muted"><i class="fa fa-long-arrow-up"></i></a></span> &copy; 2017 Copyright APG.
+			</div>
+		</footer>
+		<!-- / footer -->
+	</div>
+	<script src="./libs/jquery/jquery/dist/jquery.js"></script>
+	<script src="./libs/jquery/bootstrap/dist/js/bootstrap.js"></script>
+	<!-- Make sure you put this AFTER Leaflet's CSS -->
+	<script src="https://unpkg.com/leaflet@1.1.0/dist/leaflet.js" integrity="sha512-mNqn2Wg7tSToJhvHcqfzLMU6J4mkOImSPTxVZAdo+lcPlk+GhZmYgACEe0x35K7YzW1zJ7XyJV/TT1MrdXvMcA==" crossorigin=""></script>
+	<script src="https://unpkg.com/leaflet-easybutton@2.0.0/src/easy-button.js"></script>
+	<script src="./js/ui-load.js"></script>
+	<script src="./js/ui-jp.config.js"></script>
+	<script src="./js/ui-jp.js"></script>
+	<script src="./js/ui-nav.js"></script>
+	<script src="./js/ui-toggle.js"></script>
+	<script src="./js/ui-client.js"></script>
+	<!--Plugin Proj4Leaflet-->
+	<script src="./js/proj4-compressed.js"></script>
+	<script src="./js/proj4leaflet.js"></script>
+	<script src="./js/leaflet-svg-shape-markers.min.js"></script>
+	<script>
+
+	var crs25830 = new L.Proj.CRS('EPSG:25830',
+		'+proj=utm +zone=30 +ellps=GRS80 +units=m +no_defs', //http://spatialreference.org/ref/epsg/25830/proj4/
+		{
+			resolutions: [2048, 1024, 512, 256, 128, 64, 32, 16, 8, 4, 2, 1, 0.5],
+			origin: [-5120900.0 , 9998100.0]
+	});
+
+	var terrain = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+		maxZoom: 20,
+		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+			'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+			'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+		id: 'mapbox.streets'
+	});
+
+	var satellite = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+		maxZoom: 20,
+		attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+	});
+
+	var baseMaps = {
+		"Terreno": terrain,
+		"Satélite": satellite
+	};
+
+	var mymap = L.map('mapid', {
+		crs: L.CRS.EPSG3857,
+		minZoom:14,
+		maxZoom:20,
+		doubleClickZoom:false,
+		layers:terrain
+	}).setView([43.563, -5.69], 14);
+
+	L.easyButton('fa-crosshairs fa-lg', function(){
+		mymap.setView([43.563, -5.69], 14);
+	}, 'Reset Zoom & Center').addTo(mymap);
+
+	L.control.scale().addTo(mymap);
+	layerControl = L.control.layers(baseMaps,null,{collapsed:false}).addTo(mymap);
+
+	layerControl._container.remove();
+	document.getElementById('layerControldiv').appendChild(layerControl.onAdd(mymap));
+
+	function showFeatures(object){
+		var tbody = document.createElement("tbody");
+
+		var where = document.getElementById('featureInfodiv');
+		where.innerHTML = "";
+		where.appendChild(tbody);
+
+		for (var property in object) {
+			if (object.hasOwnProperty(property)) {
+  				var row = document.createElement("tr");
+
+				var cell = document.createElement("td");
+				cell.textContent = property;
+				row.appendChild(cell);
+
+				var cell = document.createElement("td");
+				cell.textContent = object[property];
+				row.appendChild(cell);
+
+  				tbody.appendChild(row);
+			}
+		}
+
+		$('#tab-2').click();
+	};
+
+	function getOverlays(callback){
+		var defaultStyle = {
+				color: "#999",
+			weight: 2,
+			fillColor: "#925f92",
+			fillOpacity: .6
+		};
+
+		// Ejemplo de uso de L.Proj.GeoJSON----------------------------------------------
+		proj4.defs('EPSG:25830', '+proj=utm +zone=30 +ellps=GRS80 +units=m +no_defs');
+
+		var request = $.ajax({
+			dataType: 'json',
+			url: 'ARQUETAS.json',
+			success: function (response) {
+				response.features = $.grep(response.features,
+					function(e){ return e.properties.USO == "Arqueta Agua"; });
+
+				var overlay = {
+					['APG:ARQUETAS:AGUA'] : L.Proj.geoJson(response, {
+						'pointToLayer': function(feature, latlng) {
+							return L.shapeMarker(latlng, {
+								color: 'red',
+								fillColor: '#f03',
+								fillOpacity: 0.5,
+								shape: "diamond",
+								radius: 2.5
+							})
+						},
+
+						onEachFeature: function( feature, layer ){
+							layer.bindPopup("<b>" + feature.properties.CODIGO + "</b><br/>" + feature.properties.USO);
+
+							layer.on("dblclick", function (e) {
+								showFeatures(feature.properties);
+							});
+						}
+					}).addTo(mymap)
+				};
+				callback(overlay);
+			},
+			error: function(req, err){ console.log('message' + err); }
+		});
+
+		var request = $.ajax({
+			dataType: 'json',
+			url: 'CUADROMANDO.json',
+			success: function (response) {
+				var overlay = {
+					['APG:CUADROMANDO'] : L.Proj.geoJson(response, {
+						'pointToLayer': function(feature, latlng) {
+							return L.circleMarker(latlng, {
+								color: 'green',
+								fillColor: '#f03',
+								fillOpacity: 0.5,
+								radius: 2.5
+							}).bindPopup("<b>" + feature.properties.CODIGO + "</b><br/>" + feature.properties.DIRECCION);
+						}
+					}).addTo(mymap)
+				};
+				callback(overlay);
+			},
+			error: function(req, err){ console.log('message' + err); }
+		});
+
+		var request = $.ajax({
+			dataType: 'json',
+			url: 'PUNTOSLUZ.json',
+			success: function (response) {
+				var overlay = {
+					['APG:PUNTOSLUZ'] : L.Proj.geoJson(response, {
+						'pointToLayer': function(feature, latlng) {
+							return L.shapeMarker(latlng, {
+								color: 'magenta',
+								fillColor: '#f03',
+								fillOpacity: 0.5,
+								shape: "triangle",
+								radius: 2.5
+							}).bindPopup("<b>" + feature.properties.CODIGO + "</b><br/>" + feature.properties.SOPORTE);
+						}
+					}).addTo(mymap)
+				};
+				callback(overlay);
+			},
+			error: function(req, err){ console.log('message' + err); }
+		});
+
+		var request = $.ajax({
+			dataType: 'json',
+			url: 'AUTORIZACIONES.json',
+			success: function (response) {
+				var overlay = {
+					['APG:AUTORIZACIONES'] : L.Proj.geoJson(response, {
+						style: function(feature){
+							return defaultStyle;
+						},
+						onEachFeature: function( feature, layer ){
+							layer.bindPopup( "<b>" + feature.properties.NOMBRE + "</b><br/>" + feature.properties.USO);
+							layer.on('mouseover', function(e) {
+								layer.setStyle({
+									color: '#2262CC',
+									weight: 3,
+									opacity: 0.6,
+									fillOpacity: 0.65,
+									fillColor: '#2262CC'
+								});
+							});
+
+							layer.on("mouseout", function (e) {
+								layer.setStyle(defaultStyle);
+							});
+						}
+					}).addTo(mymap)
+				};
+				callback(overlay);
+			},
+			error: function(req, err){ console.log('message' + err); }
+		});
+
+		var request = $.ajax({
+			dataType: 'json',
+			url: 'CONDUCCIONES.json',
+			success: function (response) {
+				response.features = $.grep(response.features,
+					function(e){ return e.properties.USO == "Pluviales"; });
+
+				var overlay = {
+					['APG:CONDUCCIONES:PLUVIALES'] : L.Proj.geoJson(response, {
+						style: function(feature){
+							fillColor = "#999999";  // no data
+							return { color: "#0000ff", weight: 2, fillColor: fillColor, fillOpacity: .6 };
+						},
+						onEachFeature: function( feature, layer ){
+							layer.bindPopup( "<b>" + feature.properties.ESTADO + "</b><br/>" + feature.properties.USO)
+						}
+					}).addTo(mymap)
+				};
+				callback(overlay);
+			},
+			error: function(req, err){ console.log('message' + err); }
+		});
+
+	}
+
+	getOverlays(
+		function(data) {
+			name = Object.keys(data);
+			layer= data[name];
+			layerControl.addOverlay(layer, name);
+		}
+	);
+
+	</script>
+</body>
+
+</html>

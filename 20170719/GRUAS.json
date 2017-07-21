@@ -1,0 +1,603 @@
+{
+	"features": [
+		{
+			"geometry": {
+				"coordinates": [
+					282806.5322171065,
+					4828670.88760311
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": null,
+				"ANIO": null,
+				"CENTRO_COSTE": null,
+				"CODIGO": "TEMP07",
+				"FABRICANTE": null,
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PROPIEDAD": null,
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Movil",
+				"TONELAJE": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282032.6844741354,
+					4826975.424962764
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "35",
+				"ANIO": 1999,
+				"CENTRO_COSTE": 130201,
+				"CODIGO": "G06",
+				"FABRICANTE": "IMENOSA",
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": 4560,
+				"NUMERO": "6",
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "APG",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Fija",
+				"TONELAJE": "35"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282580.3163511271,
+					4827122.190820939
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": null,
+				"ANIO": null,
+				"CENTRO_COSTE": null,
+				"CODIGO": "TEMP03",
+				"FABRICANTE": null,
+				"FECHA": null,
+				"MODELO": "DC2",
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PROPIEDAD": null,
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Portico",
+				"TONELAJE": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283209.200923081,
+					4826215.57003902
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "50",
+				"ANIO": 2003,
+				"CENTRO_COSTE": null,
+				"CODIGO": "GM1",
+				"FABRICANTE": "Gottwald",
+				"FECHA": null,
+				"MODELO": "HMK 360 E",
+				"MSLINK_OLD": 4517,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "Alvargonz\u00e1lez S.A.",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Movil",
+				"TONELAJE": "50/80"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281947.00315004616,
+					4826931.194317766
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "25-20",
+				"ANIO": 2002,
+				"CENTRO_COSTE": 80006,
+				"CODIGO": "G0A",
+				"FABRICANTE": "Duro Felguera",
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": 4524,
+				"NUMERO": "A",
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "ARCELOR ESPA\u00d1A, S.A.",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Fija",
+				"TONELAJE": "20-25"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282622.8911227277,
+					4827134.8226918075
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "40",
+				"ANIO": 1988,
+				"CENTRO_COSTE": null,
+				"CODIGO": "DC2",
+				"FABRICANTE": "PHB Weserhute AG",
+				"FECHA": null,
+				"MODELO": "DC1",
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "APG",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Portico",
+				"TONELAJE": "50"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283019.58478133933,
+					4828740.49344873
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "50",
+				"ANIO": 2012,
+				"CENTRO_COSTE": null,
+				"CODIGO": "GM4",
+				"FABRICANTE": "Gottwald",
+				"FECHA": null,
+				"MODELO": "G HMK 8310 B",
+				"MSLINK_OLD": 4569,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "Alvargonz\u00e1lez S.A.",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Movil",
+				"TONELAJE": "32/80"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283121.05857718945,
+					4826309.711976867
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "35-20",
+				"ANIO": 1999,
+				"CENTRO_COSTE": 60002,
+				"CODIGO": "G05",
+				"FABRICANTE": "IMENOSA",
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": 4553,
+				"NUMERO": "5",
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "ALVARGONZALEZ, S.A.",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Fija",
+				"TONELAJE": "16-30"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282057.5694594024,
+					4826587.660288029
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "25",
+				"ANIO": 1976,
+				"CENTRO_COSTE": 80007,
+				"CODIGO": "G51",
+				"FABRICANTE": "MACOSA",
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": 4528,
+				"NUMERO": "51",
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "BERGE MARITIMA, S.A.",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Fija",
+				"TONELAJE": "12"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282119.3898105097,
+					4827139.15088947
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "25",
+				"ANIO": 1972,
+				"CENTRO_COSTE": 30001,
+				"CODIGO": "G41",
+				"FABRICANTE": "AESA",
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": 4521,
+				"NUMERO": "41",
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "AGP",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Fija",
+				"TONELAJE": "12"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282399.4136588249,
+					4827036.247499346
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": null,
+				"ANIO": null,
+				"CENTRO_COSTE": null,
+				"CODIGO": "TEMP02",
+				"FABRICANTE": null,
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PROPIEDAD": null,
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Fija",
+				"TONELAJE": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283175.1612284855,
+					4827314.003379515
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": null,
+				"ANIO": null,
+				"CENTRO_COSTE": null,
+				"CODIGO": "TEMP04",
+				"FABRICANTE": null,
+				"FECHA": null,
+				"MODELO": "DC3",
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PROPIEDAD": null,
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Portico",
+				"TONELAJE": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282914.0781819248,
+					4828708.413354287
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "46",
+				"ANIO": 2003,
+				"CENTRO_COSTE": null,
+				"CODIGO": "GM3",
+				"FABRICANTE": "Liebherr",
+				"FECHA": null,
+				"MODELO": "LHM 400",
+				"MSLINK_OLD": 4567,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "Berg\u00e9 Mar\u00edtima S.L.",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Movil",
+				"TONELAJE": "70/10"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					283047.5595469475,
+					4826434.119764309
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "35-20",
+				"ANIO": 1999,
+				"CENTRO_COSTE": 30001,
+				"CODIGO": "G04",
+				"FABRICANTE": "IMENOSA",
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": 4552,
+				"NUMERO": "4",
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "ALVARGONZALEZ, S.A.",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Fija",
+				"TONELAJE": "16-30"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282170.93727567664,
+					4827043.956710188
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "35",
+				"ANIO": 1999,
+				"CENTRO_COSTE": 60005,
+				"CODIGO": "G01",
+				"FABRICANTE": "Duro Felguera",
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": 4523,
+				"NUMERO": "1",
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "AGP",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Fija",
+				"TONELAJE": "35"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282081.5465159024,
+					4827119.7467034515
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "25-20",
+				"ANIO": 2002,
+				"CENTRO_COSTE": 80006,
+				"CODIGO": "G0B",
+				"FABRICANTE": "DURO FELGUERA",
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": 4522,
+				"NUMERO": "B",
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "ARCELOR ESPA\u00d1A, S.A.",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Fija",
+				"TONELAJE": "20-25"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282503.4113525498,
+					4826827.55908568
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "48",
+				"ANIO": 2007,
+				"CENTRO_COSTE": null,
+				"CODIGO": "GM2",
+				"FABRICANTE": "Liebher",
+				"FECHA": null,
+				"MODELO": "LHM 400 G",
+				"MSLINK_OLD": 4568,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "Marprin",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Fija",
+				"TONELAJE": "38/10"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282786.32160346117,
+					4826079.945975199
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": null,
+				"ANIO": null,
+				"CENTRO_COSTE": null,
+				"CODIGO": "TEMP05",
+				"FABRICANTE": null,
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PROPIEDAD": null,
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Portico",
+				"TONELAJE": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282253.82557504653,
+					4826705.808935337
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "25",
+				"ANIO": 1978,
+				"CENTRO_COSTE": 130201,
+				"CODIGO": "G59",
+				"FABRICANTE": "MACOSA",
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": 4525,
+				"NUMERO": "59",
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "CES",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Fija",
+				"TONELAJE": "30"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					281967.97138258966,
+					4827060.186976303
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "25",
+				"ANIO": 1978,
+				"CENTRO_COSTE": 130201,
+				"CODIGO": "G60",
+				"FABRICANTE": "MACOSA",
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": 4520,
+				"NUMERO": "60",
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "ARCELOR",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Fija",
+				"TONELAJE": "30"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282813.28709431743,
+					4826117.0304095475
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": null,
+				"ANIO": null,
+				"CENTRO_COSTE": null,
+				"CODIGO": "TEMP06",
+				"FABRICANTE": null,
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PROPIEDAD": null,
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Portico",
+				"TONELAJE": null
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282093.5095193718,
+					4826619.096192077
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": "25",
+				"ANIO": 1978,
+				"CENTRO_COSTE": 130104,
+				"CODIGO": "G55",
+				"FABRICANTE": "MACOSA",
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": 4527,
+				"NUMERO": "55",
+				"OBSERVACIONES": null,
+				"PROPIEDAD": "BERGE MARITIMA, S.A.",
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Fija",
+				"TONELAJE": "12"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					282371.35819695,
+					4827096.265744052
+				],
+				"type": "Point"
+			},
+			"properties": {
+				"ALCANCE": null,
+				"ANIO": null,
+				"CENTRO_COSTE": null,
+				"CODIGO": "TEMP01",
+				"FABRICANTE": null,
+				"FECHA": null,
+				"MODELO": null,
+				"MSLINK_OLD": null,
+				"NUMERO": null,
+				"OBSERVACIONES": null,
+				"PROPIEDAD": null,
+				"TABLA_OLD": "GRUAS",
+				"TIPO": "Fija",
+				"TONELAJE": null
+			},
+			"type": "Feature"
+		}
+	],
+	"type": "FeatureCollection"
+}
